@@ -1,0 +1,5 @@
+case_type,total_cases,correct_hits,hit_rate
+no_diacritics,64,64,1.0
+original,64,64,1.0
+synonym,64,64,1.0
+typo_unikey,64,64,1.0

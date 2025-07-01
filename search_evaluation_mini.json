@@ -1,0 +1,26 @@
+[
+  {
+    "case_type":"no_diacritics",
+    "total_cases":64,
+    "correct_hits":64,
+    "hit_rate":1.0
+  },
+  {
+    "case_type":"original",
+    "total_cases":64,
+    "correct_hits":64,
+    "hit_rate":1.0
+  },
+  {
+    "case_type":"synonym",
+    "total_cases":64,
+    "correct_hits":64,
+    "hit_rate":1.0
+  },
+  {
+    "case_type":"typo_unikey",
+    "total_cases":64,
+    "correct_hits":64,
+    "hit_rate":1.0
+  }
+]

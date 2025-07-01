@@ -1,0 +1,257 @@
+keyword,expected,top5_actual,is_hit,case_type,method
+Chuyen tien,Chuyển tiền,"['Chuyển tiền', 'Tiền điện', 'Nạp tiền', 'Rút tiền', 'Nạp tiền ePass']",True,no_diacritics,model
+Chuyển tiền,Chuyển tiền,"['Chuyển tiền', 'Tiền điện', 'Nạp tiền', 'Rút tiền', 'Nạp tiền ePass']",True,original,model
+Gửi tiền,Chuyển tiền,"['Tiền điện', 'Chuyển tiền', 'Nạp tiền', 'Rút tiền', 'Nạp tiền ePass']",True,synonym,model
+Chuyeenr tieenf,Chuyển tiền,"['Chuyển tiền', 'Tiền điện', 'Rút tiền', 'Nạp tiền', 'Nạp tiền ePass']",True,typo_unikey,model
+Combo Data - Thoai,Combo Data - Thoại,"['Combo Data - Thoại', 'Mua mã thẻ điện thoại', 'Thanh toán tài lộc 68 - amity', 'Top up Data', 'Điện thoại cố định 01']",True,no_diacritics,model
+Combo Data - Thoại,Combo Data - Thoại,"['Combo Data - Thoại', 'Mua mã thẻ điện thoại', 'Thanh toán tài lộc 68 - amity', 'Top up Data', 'Điện thoại cố định 01']",True,original,model
+Gói dữ liệu và điện thoại,Combo Data - Thoại,"['Combo Data - Thoại', '', '', '', '']",True,synonym,dictionary
+Combo Data - Thoaji,Combo Data - Thoại,"['Combo Data - Thoại', 'Mua mã thẻ điện thoại', 'Top up Data', 'Thanh toán tài lộc 68 - amity', 'Điện thoại cố định 01']",True,typo_unikey,model
+Cuoc truyen hinh,Cước truyền hình,"['Cước truyền hình', 'Hóa đơn truyền hình', 'Di động trả sau', 'Ví trả sau', 'Thuê xe tự lái']",True,no_diacritics,model
+Cước truyền hình,Cước truyền hình,"['Cước truyền hình', 'Hóa đơn truyền hình', 'Di động trả sau', 'Ví trả sau', 'Thuê xe tự lái']",True,original,model
+Phí dịch vụ truyền hình,Cước truyền hình,"['Dịch vụ y tế', 'Hóa đơn truyền hình', 'Cước truyền hình', 'Học phí', 'ePass - Thu phí không dừng']",True,synonym,model
+Cuwớc truyền hifnh,Cước truyền hình,"['Cước truyền hình', 'Hóa đơn truyền hình', 'Di động trả sau', 'Thuê xe tự lái', 'Ví trả sau']",True,typo_unikey,model
+Data 3G/4G,Data 3G/4G,"['Data 3G/4G', 'Internet', 'Top up Data', 'Combo Data - Thoại', 'VNPT Media']",True,no_diacritics,model
+Dịch vụ dữ liệu di động 3G/4G,Data 3G/4G,"['Data 3G/4G', 'Dịch vụ y tế', 'Di động trả sau', 'Thuê xe tự lái', 'Điện thoại cố định 01']",True,synonym,model
+Data 3G/4G,Data 3G/4G,"['Data 3G/4G', 'Internet', 'Top up Data', 'Combo Data - Thoại', 'VNPT Media']",True,typo_unikey,model
+Deal today,Dealtoday,"['Dealtoday', 'Tặng quà', 'LuckyBest', 'Nạp tiền', 'Tặng quà bạn bè']",True,no_diacritics,model
+Giảm giá ngày hôm nay,Dealtoday,"['Dealtoday', '', '', '', '']",True,synonym,dictionary
+Dealtoday,Dealtoday,"['Dealtoday', 'LuckyBest', 'Tặng quà', 'Dịch vụ y tế', 'Tiền điện']",True,typo_unikey,model
+Di dong tra sau,Di động trả sau,"['Di động trả sau', 'Ví trả sau', 'Quà của tôi', 'Hóa đơn truyền hình', 'Cước truyền hình']",True,no_diacritics,model
+Di động trả sau,Di động trả sau,"['Di động trả sau', 'Ví trả sau', 'Quà của tôi', 'Hóa đơn truyền hình', 'Cước truyền hình']",True,original,model
+Trả sau điện di động,Di động trả sau,"['Di động trả sau', 'Ví trả sau', 'Mua mã thẻ điện thoại', 'Hóa đơn truyền hình', 'Điện thoại cố định 01']",True,synonym,model
+Di ddộng trar sau,Di động trả sau,"['Di động trả sau', 'Ví trả sau', 'Hóa đơn truyền hình', 'Cước truyền hình', 'Thanh toán bảo hiểm']",True,typo_unikey,model
+Dich vu y te,Dịch vụ y tế,"['Dịch vụ y tế', 'Mở thẻ VNPAY', 'Đặt vé xe', 'Hóa đơn truyền hình', 'Thuê xe tự lái']",True,no_diacritics,model
+Dịch vụ y tế,Dịch vụ y tế,"['Dịch vụ y tế', 'Mở thẻ VNPAY', 'Đặt vé xe', 'Hóa đơn truyền hình', 'Thuê xe tự lái']",True,original,model
+Chăm sóc sức khỏe,Dịch vụ y tế,"['Dịch vụ y tế', '', '', '', '']",True,synonym,dictionary
+Dijch vuj y tế,Dịch vụ y tế,"['Dịch vụ y tế', 'Mở thẻ VNPAY', 'Đặt vé xe', 'Hóa đơn truyền hình', 'Đặt vé máy bay']",True,typo_unikey,model
+Giao hang,Giao hàng,"['Giao hàng', 'Giao hàng Ahamove', 'Thể thao - Giải trí', 'Mở tài khoản ngân hàng', 'Mua xổ số']",True,no_diacritics,model
+Giao hàng,Giao hàng,"['Giao hàng', 'Giao hàng Ahamove', 'Thể thao - Giải trí', 'Mở tài khoản ngân hàng', 'Mua xổ số']",True,original,model
+vận chuyển hàng ,Giao hàng,"['Chuyển tiền', 'Mở tài khoản ngân hàng', 'Vay tiêu dùng', 'Giao hàng', 'Giao hàng Ahamove']",True,synonym,model
+Giao hafng,Giao hàng,"['Giao hàng Ahamove', 'Giao hàng', 'Thể thao - Giải trí', 'Hóa đơn truyền hình', 'Mua gói học']",True,typo_unikey,model
+Giao hang Ahamove,Giao hàng Ahamove,"['Giao hàng Ahamove', 'Giao hàng', 'Thể thao - Giải trí', 'Mở tài khoản ngân hàng', 'Mua mã thẻ điện thoại']",True,no_diacritics,model
+Giao hàng Ahamove,Giao hàng Ahamove,"['Giao hàng Ahamove', 'Giao hàng', 'Thể thao - Giải trí', 'Mở tài khoản ngân hàng', 'Mua mã thẻ điện thoại']",True,original,model
+vận chuyển hàng Ahamove,Giao hàng Ahamove,"['Chuyển tiền', 'Giao hàng Ahamove', 'Mở tài khoản ngân hàng', 'Hóa đơn truyền hình', 'Vay tiêu dùng']",True,synonym,model
+Giao hafng Ahamove,Giao hàng Ahamove,"['Giao hàng Ahamove', 'Giao hàng', 'Thể thao - Giải trí', 'Mua mã thẻ điện thoại', 'Hóa đơn truyền hình']",True,typo_unikey,model
+Goi Taxi,Gọi Taxi,"['Gọi Taxi', 'Taxi', 'VNPAY Taxi', 'Mua gói học', 'Quà của tôi']",True,no_diacritics,model
+Gọi Taxi,Gọi Taxi,"['Gọi Taxi', 'Taxi', 'VNPAY Taxi', 'Mua gói học', 'Quà của tôi']",True,original,model
+Gọi xe taxi,Gọi Taxi,"['Gọi Taxi', 'Taxi', 'VNPAY Taxi', 'Đặt xe liên tỉnh', 'Mua gói học']",True,synonym,model
+Goji Taxi,Gọi Taxi,"['Gọi Taxi', 'Taxi', 'VNPAY Taxi', 'Mua gói học', 'Thanh toán bảo hiểm']",True,typo_unikey,model
+Hoa don truyen hinh,Hóa đơn truyền hình,"['Hóa đơn truyền hình', 'Cước truyền hình', 'Thanh toán hóa đơn', 'Đặt hoa', 'Di động trả sau']",True,no_diacritics,model
+Hóa đơn truyền hình,Hóa đơn truyền hình,"['Hóa đơn truyền hình', 'Cước truyền hình', 'Thanh toán hóa đơn', 'Đặt hoa', 'Di động trả sau']",True,original,model
+thanh toán dịch vụ truyền hình,Hóa đơn truyền hình,"['Thanh toán bảo hiểm', 'Thanh toán hóa đơn', 'Thanh toán khoản vay', 'Thanh toán chạm', 'Hóa đơn truyền hình']",True,synonym,model
+Hosa ddown truyền hifnh,Hóa đơn truyền hình,"['Hóa đơn truyền hình', 'Cước truyền hình', 'Đặt hoa', 'Thanh toán hóa đơn', 'Di động trả sau']",True,typo_unikey,model
+Hoc phi,Học phí,"['Học phí', 'Phí chung cư', 'ePass - Thu phí không dừng', 'Mua gói học', 'Vé tàu']",True,no_diacritics,model
+Học phí,Học phí,"['Học phí', 'Phí chung cư', 'ePass - Thu phí không dừng', 'Mua gói học', 'Vé tàu']",True,original,model
+Phí học tập,Học phí,"['Học phí', 'Phí chung cư', 'ePass - Thu phí không dừng', 'Vé tàu', 'Mua gói học']",True,synonym,model
+Hojc phis,Học phí,"['Học phí', 'Đặt hoa', 'Phí chung cư', 'ePass - Thu phí không dừng', 'Hóa đơn truyền hình']",True,typo_unikey,model
+Internet,Internet,"['Internet', 'Taxi', 'e-Gift', 'VnShop', 'Học phí']",True,no_diacritics,model
+Mạng Internet,Internet,"['Internet', 'Data 3G/4G', 'Tiền điện', 'Nạp tiền ePass', 'Rút tiền']",True,synonym,model
+Internet,Internet,"['Internet', 'Taxi', 'e-Gift', 'VnShop', 'Học phí']",True,typo_unikey,model
+LuckyBest,LuckyBest,"['LuckyBest', 'Dealtoday', 'Combo Data - Thoại', 'Vé tàu', 'Vay tiêu dùng']",True,no_diacritics,model
+may mắn,LuckyBest,"['LuckyBest', '', '', '', '']",True,synonym,dictionary
+LuckyBest,LuckyBest,"['LuckyBest', 'Dealtoday', 'Combo Data - Thoại', 'Vé tàu', 'Vay tiêu dùng']",True,typo_unikey,model
+MiniApp Khach san,MiniApp Khách sạn,"['MiniApp Khách sạn', 'MiniApp Tàu Thủy', 'Mở tài khoản VCB', 'Mở tài khoản BIDV', 'Đặt sân Golf']",True,no_diacritics,model
+MiniApp Khách sạn,MiniApp Khách sạn,"['MiniApp Khách sạn', 'MiniApp Tàu Thủy', 'Mở tài khoản VCB', 'Mở tài khoản BIDV', 'Đặt sân Golf']",True,original,model
+Ứng dụng mini cho khách sạn,MiniApp Khách sạn,"['MiniApp Khách sạn', 'ePass - Thu phí không dừng', 'Mở tài khoản VCB', 'Mở tài khoản BIDV', 'Thanh toán bảo hiểm']",True,synonym,model
+MiniApp Khasch sajn,MiniApp Khách sạn,"['MiniApp Khách sạn', 'MiniApp Tàu Thủy', 'ePass - Thu phí không dừng', 'Mở tài khoản BIDV', 'Mở tài khoản VCB']",True,typo_unikey,model
+MiniApp Tau Thuy,MiniApp Tàu Thủy,"['MiniApp Tàu Thủy', 'MiniApp Khách sạn', 'Vé tàu', 'Đặt vé tàu', 'Thuê xe tự lái']",True,no_diacritics,model
+MiniApp Tàu Thủy,MiniApp Tàu Thủy,"['MiniApp Tàu Thủy', 'MiniApp Khách sạn', 'Vé tàu', 'Đặt vé tàu', 'Thuê xe tự lái']",True,original,model
+Ứng dụng mini tàu thủy,MiniApp Tàu Thủy,"['MiniApp Tàu Thủy', 'ePass - Thu phí không dừng', 'Đặt vé tàu', 'Vé tàu', 'Thuê xe tự lái']",True,synonym,model
+MiniApp Tafu Thury,MiniApp Tàu Thủy,"['MiniApp Tàu Thủy', 'MiniApp Khách sạn', 'Thuê xe tự lái', 'Tặng quà', 'Mua mã thẻ điện thoại']",True,typo_unikey,model
+Mua goi hoc,Mua gói học,"['Mua gói học', 'Mua mã thẻ', 'Mua xổ số', 'Mua mã thẻ điện thoại', 'Quà của tôi']",True,no_diacritics,model
+Mua gói học,Mua gói học,"['Mua gói học', 'Mua mã thẻ', 'Mua xổ số', 'Mua mã thẻ điện thoại', 'Quà của tôi']",True,original,model
+thanh toán gói học,Mua gói học,"['Thanh toán hóa đơn', 'Thanh toán bảo hiểm', 'Thanh toán chạm', 'Thanh toán khoản vay', 'Mua gói học']",True,synonym,model
+Mua gosi hojc,Mua gói học,"['Mua gói học', 'Đặt hoa', 'Mua mã thẻ', 'Mua mã thẻ điện thoại', 'Mua xổ số']",True,typo_unikey,model
+Mua ma the,Mua mã thẻ,"['Mua mã thẻ', 'Mua xổ số', 'Mua mã thẻ điện thoại', 'Mua gói học', 'Quà của tôi']",True,no_diacritics,model
+Mua mã thẻ,Mua mã thẻ,"['Mua mã thẻ', 'Mua xổ số', 'Mua mã thẻ điện thoại', 'Mua gói học', 'Quà của tôi']",True,original,model
+Mua thẻ trả trước,Mua mã thẻ,"['Ví trả sau', 'Di động trả sau', 'Mua mã thẻ', 'Cước truyền hình', 'Hóa đơn truyền hình']",True,synonym,model
+Mua max ther,Mua mã thẻ,"['Mua mã thẻ', 'Mua xổ số', 'Mua mã thẻ điện thoại', 'Mua gói học', 'Thanh toán tài lộc 68 - amity']",True,typo_unikey,model
+Mua ma the đien thoai,Mua mã thẻ điện thoại,"['Mua mã thẻ điện thoại', 'Mua mã thẻ', 'Mua xổ số', 'Điện thoại cố định 01', 'Mua gói học']",True,no_diacritics,model
+Mua mã thẻ điện thoại,Mua mã thẻ điện thoại,"['Mua mã thẻ điện thoại', 'Mua mã thẻ', 'Mua xổ số', 'Điện thoại cố định 01', 'Mua gói học']",True,original,model
+mua thẻ điện thoại trả trước,Mua mã thẻ điện thoại,"['Mua mã thẻ điện thoại', 'Di động trả sau', 'Ví trả sau', 'Điện thoại cố định 01', 'Hóa đơn truyền hình']",True,synonym,model
+Mua max ther ddiện thoaji,Mua mã thẻ điện thoại,"['Mua mã thẻ điện thoại', 'Di động trả sau', 'Mua xổ số', 'Thanh toán bảo hiểm', 'Mua mã thẻ']",True,typo_unikey,model
+Mua xo so,Mua xổ số,"['Mua xổ số', 'Mua mã thẻ', 'Mua mã thẻ điện thoại', 'Mua gói học', 'Quà của tôi']",True,no_diacritics,model
+Mua xổ số,Mua xổ số,"['Mua xổ số', 'Mua mã thẻ', 'Mua mã thẻ điện thoại', 'Mua gói học', 'Quà của tôi']",True,original,model
+Tham gia xổ số,Mua xổ số,"['Thể thao - Giải trí', 'Mua xổ số', 'Giao hàng', 'Giao hàng Ahamove', 'Quà của tôi']",True,synonym,model
+Mua xoor soos,Mua xổ số,"['Mua xổ số', 'Mua mã thẻ', 'Mua mã thẻ điện thoại', 'Mua gói học', 'Đặt xe liên tỉnh']",True,typo_unikey,model
+Mo the VNPAY,Mở thẻ VNPAY,"['Mở thẻ VNPAY', 'VNPAY Taxi', 'VNPAY-QR', 'VNPAY-QR gần đây', 'Mở tài khoản VCB']",True,no_diacritics,model
+Mở thẻ VNPAY,Mở thẻ VNPAY,"['Mở thẻ VNPAY', 'VNPAY Taxi', 'VNPAY-QR', 'VNPAY-QR gần đây', 'Mở tài khoản VCB']",True,original,model
+Đăng ký thẻ VNPAY,Mở thẻ VNPAY,"['Mở thẻ VNPAY', 'VNPAY Taxi', 'VNPAY-QR gần đây', 'VNPAY-QR', 'Vay Nhanh']",True,synonym,model
+Mở ther VNPAY,Mở thẻ VNPAY,"['Mở thẻ VNPAY', 'VNPAY-QR', 'VNPAY-QR gần đây', 'VNPAY Taxi', 'Mở tài khoản VCB']",True,typo_unikey,model
+Mo tai khoan BIDV,Mở tài khoản BIDV,"['Mở tài khoản BIDV', 'Mở tài khoản VCB', 'Mở tài khoản ngân hàng', 'Mở tài khoản Eximbank', 'Thanh toán khoản vay']",True,no_diacritics,model
+Mở tài khoản BIDV,Mở tài khoản BIDV,"['Mở tài khoản BIDV', 'Mở tài khoản VCB', 'Mở tài khoản ngân hàng', 'Mở tài khoản Eximbank', 'Thanh toán khoản vay']",True,original,model
+Đăng ký tài khoản BIDV,Mở tài khoản BIDV,"['Mở tài khoản BIDV', 'Mở tài khoản ngân hàng', 'Mở tài khoản VCB', 'Thanh toán khoản vay', 'Thanh toán tài lộc 68 - amity']",True,synonym,model
+Mở tafi khoarn BIDV,Mở tài khoản BIDV,"['Mở tài khoản BIDV', 'Mở tài khoản VCB', 'Mở tài khoản ngân hàng', 'Mở tài khoản Eximbank', 'Thanh toán khoản vay']",True,typo_unikey,model
+Mo tai khoan Eximbank,Mở tài khoản Eximbank,"['Mở tài khoản Eximbank', 'Mở tài khoản VCB', 'Mở tài khoản BIDV', 'Mở tài khoản ngân hàng', 'Thanh toán khoản vay']",True,no_diacritics,model
+Mở tài khoản Eximbank,Mở tài khoản Eximbank,"['Mở tài khoản Eximbank', 'Mở tài khoản VCB', 'Mở tài khoản BIDV', 'Mở tài khoản ngân hàng', 'Thanh toán khoản vay']",True,original,model
+Lập tài khoản tại Eximbank,Mở tài khoản Eximbank,"['Mở tài khoản Eximbank', 'Mở tài khoản VCB', 'Mở tài khoản BIDV', 'Mở tài khoản ngân hàng', 'Tặng quà']",True,synonym,model
+Mở tafi khoarn Eximbank,Mở tài khoản Eximbank,"['Mở tài khoản Eximbank', 'Mở tài khoản VCB', 'Mở tài khoản BIDV', 'Mở tài khoản ngân hàng', 'Mở thẻ VNPAY']",True,typo_unikey,model
+Mo tai khoan VCB,Mở tài khoản VCB,"['Mở tài khoản VCB', 'Mở tài khoản BIDV', 'Mở tài khoản Eximbank', 'Mở tài khoản ngân hàng', 'Mở thẻ VNPAY']",True,no_diacritics,model
+Mở tài khoản VCB,Mở tài khoản VCB,"['Mở tài khoản VCB', 'Mở tài khoản BIDV', 'Mở tài khoản Eximbank', 'Mở tài khoản ngân hàng', 'Mở thẻ VNPAY']",True,original,model
+Đăng ký tài khoản Vietcombank.,Mở tài khoản VCB,"['Mở tài khoản BIDV', 'Mở tài khoản ngân hàng', 'Mở tài khoản VCB', 'Thanh toán khoản vay', 'Mở tài khoản Eximbank']",True,synonym,model
+Mở tafi khoarn VCB,Mở tài khoản VCB,"['Mở tài khoản VCB', 'Mở tài khoản BIDV', 'Mở thẻ VNPAY', 'Mở tài khoản Eximbank', 'Mở tài khoản ngân hàng']",True,typo_unikey,model
+Mo tai khoan ngan hang,Mở tài khoản ngân hàng,"['Mở tài khoản ngân hàng', 'Mở tài khoản BIDV', 'Mở tài khoản VCB', 'Mở tài khoản Eximbank', 'Mua mã thẻ điện thoại']",True,no_diacritics,model
+Mở tài khoản ngân hàng,Mở tài khoản ngân hàng,"['Mở tài khoản ngân hàng', 'Mở tài khoản BIDV', 'Mở tài khoản VCB', 'Mở tài khoản Eximbank', 'Mua mã thẻ điện thoại']",True,original,model
+Tạo lập tài khoản ngân hàng,Mở tài khoản ngân hàng,"['Mở tài khoản ngân hàng', 'Mở tài khoản BIDV', 'Mở tài khoản Eximbank', 'Mở tài khoản VCB', 'Mua mã thẻ điện thoại']",True,synonym,model
+Mở tafi khoarn ngaan hafng,Mở tài khoản ngân hàng,"['Mở tài khoản ngân hàng', 'Mở tài khoản BIDV', 'Mở tài khoản VCB', 'Mở tài khoản Eximbank', 'Mua mã thẻ điện thoại']",True,typo_unikey,model
+Nap tien,Nạp tiền,"['Nạp tiền', 'Nạp tiền ePass', 'Nạp tiền VETC', 'Tiền điện', 'Rút tiền']",True,no_diacritics,model
+Nạp tiền,Nạp tiền,"['Nạp tiền', 'Nạp tiền ePass', 'Nạp tiền VETC', 'Tiền điện', 'Rút tiền']",True,original,model
+Thêm tiền vào tài khoản,Nạp tiền,"['Nạp tiền', '', '', '', '']",True,synonym,dictionary
+Najp tiền,Nạp tiền,"['Rút tiền', 'Nạp tiền', 'Tiền điện', 'Nạp tiền ePass', 'Chuyển tiền']",True,typo_unikey,model
+Nap tien VETC,Nạp tiền VETC,"['Nạp tiền VETC', 'Nạp tiền', 'Nạp tiền ePass', 'Tiền điện', 'Vay tiêu dùng']",True,no_diacritics,model
+Nạp tiền VETC,Nạp tiền VETC,"['Nạp tiền VETC', 'Nạp tiền', 'Nạp tiền ePass', 'Tiền điện', 'Vay tiêu dùng']",True,original,model
+Bổ sung tiền VETC,Nạp tiền VETC,"['Nạp tiền VETC', 'Vay tiêu dùng', 'Tiền điện', 'Nạp tiền', 'Rút tiền']",True,synonym,model
+Najp tiền VETC,Nạp tiền VETC,"['Nạp tiền VETC', 'Nạp tiền', 'Rút tiền', 'Nạp tiền ePass', 'Tiền điện']",True,typo_unikey,model
+Nap tien ePass,Nạp tiền ePass,"['Nạp tiền ePass', 'Nạp tiền', 'Nạp tiền VETC', 'Tiền điện', 'Rút tiền']",True,no_diacritics,model
+Nạp tiền ePass,Nạp tiền ePass,"['Nạp tiền ePass', 'Nạp tiền', 'Nạp tiền VETC', 'Tiền điện', 'Rút tiền']",True,original,model
+bổ sung tiền ePass,Nạp tiền ePass,"['Nạp tiền ePass', 'Tiền điện', 'Rút tiền', 'Nạp tiền', 'Chuyển tiền']",True,synonym,model
+Najp tiền ePass,Nạp tiền ePass,"['Nạp tiền ePass', 'Rút tiền', 'Tiền điện', 'Nạp tiền', 'Nạp tiền VETC']",True,typo_unikey,model
+Phi chung cu,Phí chung cư,"['Phí chung cư', 'ePass - Thu phí không dừng', 'Học phí', 'Cước truyền hình', 'Di động trả sau']",True,no_diacritics,model
+Phí chung cư,Phí chung cư,"['Phí chung cư', 'ePass - Thu phí không dừng', 'Học phí', 'Cước truyền hình', 'Di động trả sau']",True,original,model
+Phí dịch vụ chung cư,Phí chung cư,"['Phí chung cư', 'Dịch vụ y tế', 'ePass - Thu phí không dừng', 'Học phí', 'Di động trả sau']",True,synonym,model
+Phis chung cuw,Phí chung cư,"['Phí chung cư', 'ePass - Thu phí không dừng', 'Học phí', 'Cước truyền hình', 'Vé xem phim']",True,typo_unikey,model
+Qua cua toi,Quà của tôi,"['Quà của tôi', 'Tặng quà', 'Mua gói học', 'Di động trả sau', 'Thể thao - Giải trí']",True,no_diacritics,model
+Quà của tôi,Quà của tôi,"['Quà của tôi', 'Tặng quà', 'Mua gói học', 'Di động trả sau', 'Thể thao - Giải trí']",True,original,model
+Món quà dành cho tôi,Quà của tôi,"['Quà của tôi', 'Thanh toán bảo hiểm', 'Thanh toán hóa đơn', 'Di động trả sau', 'Mua gói học']",True,synonym,model
+Quaf cura tooi,Quà của tôi,"['Quà của tôi', 'Thể thao - Giải trí', 'Tặng quà', 'Mua mã thẻ điện thoại', 'Thuê xe tự lái']",True,typo_unikey,model
+Rut tien,Rút tiền,"['Rút tiền', 'Nạp tiền', 'Tiền điện', 'Nạp tiền ePass', 'Chuyển tiền']",True,no_diacritics,model
+Rút tiền,Rút tiền,"['Rút tiền', 'Nạp tiền', 'Tiền điện', 'Nạp tiền ePass', 'Chuyển tiền']",True,original,model
+lấy tiền mặt,Rút tiền,"['Nạp tiền', 'Nạp tiền ePass', 'Tiền điện', 'Rút tiền', 'Chuyển tiền']",True,synonym,model
+Rust tiền,Rút tiền,"['Nạp tiền', 'Tiền điện', 'Rút tiền', 'Nạp tiền ePass', 'Nạp tiền VETC']",True,typo_unikey,model
+Taxi,Taxi,"['Taxi', 'Gọi Taxi', 'VNPAY Taxi', 'Internet', 'Di động trả sau']",True,no_diacritics,model
+Xe ô tô chở khách,Taxi,"['Taxi', '', '', '', '']",True,synonym,dictionary
+Taxi,Taxi,"['Taxi', 'Gọi Taxi', 'VNPAY Taxi', 'Internet', 'Di động trả sau']",True,typo_unikey,model
+Thanh toan bao hiem,Thanh toán bảo hiểm,"['Thanh toán bảo hiểm', 'Thanh toán hóa đơn', 'Thanh toán chạm', 'Thanh toán tài lộc 68 - amity', 'Thanh toán khoản vay']",True,no_diacritics,model
+Thanh toán bảo hiểm,Thanh toán bảo hiểm,"['Thanh toán bảo hiểm', 'Thanh toán hóa đơn', 'Thanh toán chạm', 'Thanh toán tài lộc 68 - amity', 'Thanh toán khoản vay']",True,original,model
+trả tiền bảo hiểm,Thanh toán bảo hiểm,"['Thanh toán bảo hiểm', '', '', '', '']",True,synonym,dictionary
+Thanh toasn baro hiểm,Thanh toán bảo hiểm,"['Thanh toán bảo hiểm', 'Thanh toán hóa đơn', 'Thanh toán chạm', 'Thanh toán khoản vay', 'Thanh toán tài lộc 68 - amity']",True,typo_unikey,model
+Thanh toan cham,Thanh toán chạm,"['Thanh toán chạm', 'Thanh toán hóa đơn', 'Thanh toán bảo hiểm', 'Thanh toán tài lộc 68 - amity', 'Thanh toán khoản vay']",True,no_diacritics,model
+Thanh toán chạm,Thanh toán chạm,"['Thanh toán chạm', 'Thanh toán hóa đơn', 'Thanh toán bảo hiểm', 'Thanh toán tài lộc 68 - amity', 'Thanh toán khoản vay']",True,original,model
+Thanh toán không tiếp xúc,Thanh toán chạm,"['Thanh toán bảo hiểm', 'Thanh toán tài lộc 68 - amity', 'Thanh toán khoản vay', 'Thanh toán hóa đơn', 'Thanh toán chạm']",True,synonym,model
+Thanh toasn chajm,Thanh toán chạm,"['Thanh toán chạm', 'Thanh toán bảo hiểm', 'Thanh toán hóa đơn', 'Thanh toán khoản vay', 'Thanh toán tài lộc 68 - amity']",True,typo_unikey,model
+Thanh toan hoa don,Thanh toán hóa đơn,"['Thanh toán hóa đơn', 'Thanh toán chạm', 'Thanh toán bảo hiểm', 'Thanh toán khoản vay', 'Thanh toán tài lộc 68 - amity']",True,no_diacritics,model
+Thanh toán hóa đơn,Thanh toán hóa đơn,"['Thanh toán hóa đơn', 'Thanh toán chạm', 'Thanh toán bảo hiểm', 'Thanh toán khoản vay', 'Thanh toán tài lộc 68 - amity']",True,original,model
+Trả tiền hóa đơn,Thanh toán hóa đơn,"['Hóa đơn truyền hình', 'Tiền điện', 'Thanh toán hóa đơn', 'Đặt hoa', 'Di động trả sau']",True,synonym,model
+Thanh toasn hosa ddown,Thanh toán hóa đơn,"['Thanh toán hóa đơn', 'Thanh toán bảo hiểm', 'Thanh toán chạm', 'Thanh toán tài lộc 68 - amity', 'Thanh toán khoản vay']",True,typo_unikey,model
+Thanh toan khoan vay,Thanh toán khoản vay,"['Thanh toán khoản vay', 'Thanh toán hóa đơn', 'Thanh toán chạm', 'Thanh toán bảo hiểm', 'Vay Nhanh']",True,no_diacritics,model
+Thanh toán khoản vay,Thanh toán khoản vay,"['Thanh toán khoản vay', 'Thanh toán hóa đơn', 'Thanh toán chạm', 'Thanh toán bảo hiểm', 'Vay Nhanh']",True,original,model
+Trả nợ vay,Thanh toán khoản vay,"['Thanh toán khoản vay', '', '', '', '']",True,synonym,dictionary
+Thanh toasn khoarn vay,Thanh toán khoản vay,"['Thanh toán khoản vay', 'Thanh toán hóa đơn', 'Vay Nhanh', 'Thanh toán bảo hiểm', 'Thanh toán chạm']",True,typo_unikey,model
+Thanh toan tai loc 68 - amity,Thanh toán tài lộc 68 - amity,"['Thanh toán tài lộc 68 - amity', 'Thanh toán bảo hiểm', 'Thanh toán chạm', 'Thanh toán hóa đơn', 'Thanh toán khoản vay']",True,no_diacritics,model
+Thanh toán tài lộc 68 - amity,Thanh toán tài lộc 68 - amity,"['Thanh toán tài lộc 68 - amity', 'Thanh toán bảo hiểm', 'Thanh toán chạm', 'Thanh toán hóa đơn', 'Thanh toán khoản vay']",True,original,model
+Dịch vụ thanh toán tài lộc 68 của Amity,Thanh toán tài lộc 68 - amity,"['Thanh toán tài lộc 68 - amity', 'Dịch vụ y tế', 'Thanh toán bảo hiểm', 'Thanh toán hóa đơn', 'Quà của tôi']",True,synonym,model
+Thanh toasn tafi lộc 68 - amity,Thanh toán tài lộc 68 - amity,"['Thanh toán tài lộc 68 - amity', 'Thanh toán chạm', 'Thanh toán hóa đơn', 'Thanh toán bảo hiểm', 'Thanh toán khoản vay']",True,typo_unikey,model
+Thue xe tu lai,Thuê xe tự lái,"['Thuê xe tự lái', 'Đặt xe liên tỉnh', 'Đặt vé xe', 'Quà của tôi', 'Di động trả sau']",True,no_diacritics,model
+Thuê xe tự lái,Thuê xe tự lái,"['Thuê xe tự lái', 'Đặt xe liên tỉnh', 'Đặt vé xe', 'Quà của tôi', 'Di động trả sau']",True,original,model
+trả tiền xe theo ngày,Thuê xe tự lái,"['Đặt xe liên tỉnh', 'Tiền điện', 'Thuê xe tự lái', 'Nạp tiền ePass', 'Rút tiền']",True,synonym,model
+Thuee xe tự lasi,Thuê xe tự lái,"['Thuê xe tự lái', 'Quà của tôi', 'Đặt xe liên tỉnh', 'Thể thao - Giải trí', 'Đặt vé xe']",True,typo_unikey,model
+The thao - Giai tri,Thể thao - Giải trí,"['Thể thao - Giải trí', 'Quà của tôi', 'Giao hàng', 'Giao hàng Ahamove', 'Thuê xe tự lái']",True,no_diacritics,model
+Thể thao - Giải trí,Thể thao - Giải trí,"['Thể thao - Giải trí', 'Quà của tôi', 'Giao hàng', 'Giao hàng Ahamove', 'Thuê xe tự lái']",True,original,model
+dịch vụ giải trí và thể thao,Thể thao - Giải trí,"['Thể thao - Giải trí', 'Quà của tôi', 'Dịch vụ y tế', 'Thuê xe tự lái', 'Di động trả sau']",True,synonym,model
+Theer thao - Giari tris,Thể thao - Giải trí,"['Thể thao - Giải trí', 'Quà của tôi', 'Giao hàng Ahamove', 'Giao hàng', 'Thuê xe tự lái']",True,typo_unikey,model
+Tien dien,Tiền điện,"['Tiền điện', 'Nạp tiền', 'Chuyển tiền', 'Nạp tiền ePass', 'Rút tiền']",True,no_diacritics,model
+Tiền điện,Tiền điện,"['Tiền điện', 'Nạp tiền', 'Chuyển tiền', 'Nạp tiền ePass', 'Rút tiền']",True,original,model
+Chi phí điện,Tiền điện,"['Phí chung cư', 'Học phí', 'Tiền điện', 'ePass - Thu phí không dừng', 'Thanh toán hóa đơn']",True,synonym,model
+Tiền ddiện,Tiền điện,"['Tiền điện', 'Chuyển tiền', 'Nạp tiền', 'Nạp tiền ePass', 'Rút tiền']",True,typo_unikey,model
+Top up Data,Top up Data,"['Top up Data', 'Combo Data - Thoại', 'Data 3G/4G', 'Internet', 'Đặt hoa']",True,no_diacritics,model
+Bổ sung dung lượng,Top up Data,"['Top up Data', '', '', '', '']",True,synonym,dictionary
+Top up Data,Top up Data,"['Top up Data', 'Combo Data - Thoại', 'Data 3G/4G', 'Internet', 'Đặt hoa']",True,typo_unikey,model
+Tang qua,Tặng quà,"['Tặng quà', 'Tặng quà bạn bè', 'Quà của tôi', 'Mua gói học', 'Mua mã thẻ điện thoại']",True,no_diacritics,model
+Tặng quà,Tặng quà,"['Tặng quà', 'Tặng quà bạn bè', 'Quà của tôi', 'Mua gói học', 'Mua mã thẻ điện thoại']",True,original,model
+Trao quà,Tặng quà,"['Ví trả sau', 'Quà của tôi', 'Di động trả sau', 'Tặng quà', 'Hóa đơn truyền hình']",True,synonym,model
+tawngj quaf,Tặng quà,"['Tặng quà', 'Nạp tiền ePass', 'Nạp tiền VETC', 'Nạp tiền', 'Mở tài khoản BIDV']",True,typo_unikey,model
+Tang qua ban be,Tặng quà bạn bè,"['Tặng quà bạn bè', 'Tặng quà', 'Quà của tôi', 'Mua mã thẻ điện thoại', 'Thanh toán bảo hiểm']",True,no_diacritics,model
+Tặng quà bạn bè,Tặng quà bạn bè,"['Tặng quà bạn bè', 'Tặng quà', 'Quà của tôi', 'Mua mã thẻ điện thoại', 'Thanh toán bảo hiểm']",True,original,model
+Tặng quà cho người bạn.,Tặng quà bạn bè,"['Tặng quà bạn bè', 'Tặng quà', 'Di động trả sau', 'Quà của tôi', 'Mua gói học']",True,synonym,model
+Tặng quaf bajn bef,Tặng quà bạn bè,"['Tặng quà', 'Tặng quà bạn bè', 'Thanh toán tài lộc 68 - amity', 'Thanh toán bảo hiểm', 'Thanh toán chạm']",True,typo_unikey,model
+VNPAY Taxi,VNPAY Taxi,"['VNPAY Taxi', 'Mở thẻ VNPAY', 'Taxi', 'VNPAY-QR', 'VNPAY-QR gần đây']",True,no_diacritics,model
+Taxi VNPAY,VNPAY Taxi,"['VNPAY Taxi', 'Taxi', 'Mở thẻ VNPAY', 'VNPAY-QR', 'VNPAY-QR gần đây']",True,synonym,model
+VNPAY Taxi,VNPAY Taxi,"['VNPAY Taxi', 'Mở thẻ VNPAY', 'Taxi', 'VNPAY-QR', 'VNPAY-QR gần đây']",True,typo_unikey,model
+VNPAY-QR,VNPAY-QR,"['VNPAY-QR', 'VNPAY-QR gần đây', 'VNPAY Taxi', 'Mở thẻ VNPAY', 'VNPT Media']",True,no_diacritics,model
+Phép thanh toán VNPAY qua mã QR,VNPAY-QR,"['VNPAY-QR', '', '', '', '']",True,synonym,dictionary
+VNPAY-QR,VNPAY-QR,"['VNPAY-QR', 'VNPAY-QR gần đây', 'VNPAY Taxi', 'Mở thẻ VNPAY', 'VNPT Media']",True,typo_unikey,model
+VNPAY-QR gan đay,VNPAY-QR gần đây,"['VNPAY-QR gần đây', 'VNPAY-QR', 'VNPAY Taxi', 'Mở thẻ VNPAY', 'VNPT Media']",True,no_diacritics,model
+VNPAY-QR gần đây,VNPAY-QR gần đây,"['VNPAY-QR gần đây', 'VNPAY-QR', 'VNPAY Taxi', 'Mở thẻ VNPAY', 'VNPT Media']",True,original,model
+Thông tin cập nhật VNPAY-QR,VNPAY-QR gần đây,"['VNPAY-QR', 'VNPAY-QR gần đây', 'Tặng quà', 'Mở thẻ VNPAY', 'VNPAY Taxi']",True,synonym,model
+VNPAY-QR ganaf ddaay,VNPAY-QR gần đây,"['VNPAY-QR gần đây', 'VNPAY-QR', 'Mở thẻ VNPAY', 'VNPAY Taxi', 'VNPT Media']",True,typo_unikey,model
+VNPT Media,VNPT Media,"['VNPT Media', 'VnShop', 'Mở thẻ VNPAY', 'VNPAY-QR', 'VNPAY Taxi']",True,no_diacritics,model
+Media của VNPT,VNPT Media,"['VNPT Media', 'Mở thẻ VNPAY', 'VnShop', 'VNPAY-QR', 'Quà của tôi']",True,synonym,model
+VNPT Media,VNPT Media,"['VNPT Media', 'VnShop', 'Mở thẻ VNPAY', 'VNPAY-QR', 'VNPAY Taxi']",True,typo_unikey,model
+VNSKY,VNSKY,"['VNSKY', 'VnShop', 'Mở thẻ VNPAY', 'VNPAY Taxi', 'VNPAY-QR']",True,no_diacritics,model
+[],VNSKY,"['VNSKY', '', '', '', '']",True,synonym,dictionary
+VNSKY,VNSKY,"['VNSKY', 'VnShop', 'Mở thẻ VNPAY', 'VNPAY Taxi', 'VNPAY-QR']",True,typo_unikey,model
+Vay Nhanh,Vay Nhanh,"['Vay Nhanh', 'Thanh toán khoản vay', 'Vay tiêu dùng', 'Mở thẻ VNPAY', 'Mở tài khoản BIDV']",True,no_diacritics,model
+"""Vay Tiền Nhanh"", ""Vay Online Nhanh"", ""Vay Dễ Dàng""",Vay Nhanh,"['Vay Nhanh', 'Vay tiêu dùng', 'Thanh toán khoản vay', 'Tiền điện', 'Nạp tiền VETC']",True,synonym,model
+Vay Nhanh,Vay Nhanh,"['Vay Nhanh', 'Thanh toán khoản vay', 'Vay tiêu dùng', 'Mở thẻ VNPAY', 'Mở tài khoản BIDV']",True,typo_unikey,model
+Vay tieu dung,Vay tiêu dùng,"['Vay tiêu dùng', 'Vay Nhanh', 'Nạp tiền VETC', 'Ví trả sau', 'Chuyển tiền']",True,no_diacritics,model
+Vay tiêu dùng,Vay tiêu dùng,"['Vay tiêu dùng', 'Vay Nhanh', 'Nạp tiền VETC', 'Ví trả sau', 'Chuyển tiền']",True,original,model
+Vay tiền mặt,Vay tiêu dùng,"['Vay tiêu dùng', 'Tiền điện', 'Nạp tiền VETC', 'Vay Nhanh', 'Nạp tiền']",True,synonym,model
+Vay tieeu dufng,Vay tiêu dùng,"['Vay tiêu dùng', 'Tiền điện', 'Vay Nhanh', 'Nạp tiền VETC', 'Chuyển tiền']",True,typo_unikey,model
+VnShop,VnShop,"['VnShop', 'VNSKY', 'VNPT Media', 'VNPAY Taxi', 'Mở thẻ VNPAY']",True,no_diacritics,model
+Vn mua sắm trực tuyến,VnShop,"['VnShop', '', '', '', '']",True,synonym,dictionary
+VnShop,VnShop,"['VnShop', 'VNSKY', 'VNPT Media', 'VNPAY Taxi', 'Mở thẻ VNPAY']",True,typo_unikey,model
+VnShop,VnShop,"['VnShop', 'VNSKY', 'VNPT Media', 'VNPAY Taxi', 'Mở thẻ VNPAY']",True,original,model
+Ve tau,Vé tàu,"['Vé tàu', 'Đặt vé tàu', 'MiniApp Tàu Thủy', 'Đặt vé xe', 'Ví trả sau']",True,no_diacritics,model
+Vé tàu,Vé tàu,"['Vé tàu', 'Đặt vé tàu', 'MiniApp Tàu Thủy', 'Đặt vé xe', 'Ví trả sau']",True,original,model
+Thẻ tàu,Vé tàu,"['Vé tàu', 'Đặt vé tàu', 'MiniApp Tàu Thủy', 'Học phí', 'Phí chung cư']",True,synonym,model
+Ves tafu,Vé tàu,"['Vé tàu', 'Đặt vé xe', 'Đặt vé tàu', 'Ví trả sau', 'Đặt vé máy bay']",True,typo_unikey,model
+Ve xem phim,Vé xem phim,"['Vé xem phim', 'Đặt vé xe', 'Mua xổ số', 'Vé tàu', 'ePass - Thu phí không dừng']",True,no_diacritics,model
+Vé xem phim,Vé xem phim,"['Vé xem phim', 'Đặt vé xe', 'Mua xổ số', 'Vé tàu', 'ePass - Thu phí không dừng']",True,original,model
+Tấm vé điện ảnh,Vé xem phim,"['Vé xem phim', '', '', '', '']",True,synonym,dictionary
+Ves xem phim,Vé xem phim,"['Vé xem phim', 'Đặt vé xe', 'Mua xổ số', 'Vé tàu', 'Đặt vé tàu']",True,typo_unikey,model
+Vi tra sau,Ví trả sau,"['Ví trả sau', 'Di động trả sau', 'Quà của tôi', 'Vay tiêu dùng', 'Cước truyền hình']",True,no_diacritics,model
+Ví trả sau,Ví trả sau,"['Ví trả sau', 'Di động trả sau', 'Quà của tôi', 'Vay tiêu dùng', 'Cước truyền hình']",True,original,model
+Thanh toán trả sau qua ví,Ví trả sau,"['Ví trả sau', 'Quà của tôi', 'Thanh toán hóa đơn', 'Thanh toán bảo hiểm', 'Thanh toán khoản vay']",True,synonym,model
+Vis trar sau,Ví trả sau,"['Ví trả sau', 'Di động trả sau', 'Hóa đơn truyền hình', 'Vay tiêu dùng', 'Cước truyền hình']",True,typo_unikey,model
+e-Gift,e-Gift,"['e-Gift', 'e-Voucher', 'Internet', 'Học phí', 'Taxi']",True,no_diacritics,model
+Quà tặng điện tử,e-Gift,"['e-Gift', '', '', '', '']",True,synonym,dictionary
+e-Gift,e-Gift,"['e-Gift', 'e-Voucher', 'Internet', 'Học phí', 'Taxi']",True,typo_unikey,model
+e-Gift,e-Gift,"['e-Gift', 'e-Voucher', 'Internet', 'Học phí', 'Taxi']",True,original,model
+e-Voucher,e-Voucher,"['e-Voucher', 'e-Gift', 'Internet', 'VNPAY Taxi', 'VnShop']",True,original,model
+e-Voucher,e-Voucher,"['e-Voucher', 'e-Gift', 'Internet', 'VNPAY Taxi', 'VnShop']",True,no_diacritics,model
+Voucher trực tuyến,e-Voucher,"['e-Voucher', 'Cước truyền hình', 'Hóa đơn truyền hình', 'Chuyển tiền', 'Ví trả sau']",True,synonym,model
+e-Voucher,e-Voucher,"['e-Voucher', 'e-Gift', 'Internet', 'VNPAY Taxi', 'VnShop']",True,typo_unikey,model
+ePass - Thu phi khong dung,ePass - Thu phí không dừng,"['ePass - Thu phí không dừng', 'Phí chung cư', 'Thanh toán tài lộc 68 - amity', 'Học phí', 'Thanh toán bảo hiểm']",True,no_diacritics,model
+ePass - Thu phí không dừng,ePass - Thu phí không dừng,"['ePass - Thu phí không dừng', 'Phí chung cư', 'Thanh toán tài lộc 68 - amity', 'Học phí', 'Thanh toán bảo hiểm']",True,original,model
+Thu phí không dừng với ePass,ePass - Thu phí không dừng,"['ePass - Thu phí không dừng', 'Phí chung cư', 'Di động trả sau', 'Thuê xe tự lái', 'Học phí']",True,synonym,model
+ePass - Thu phis khoong dừng,ePass - Thu phí không dừng,"['ePass - Thu phí không dừng', 'Phí chung cư', 'Học phí', 'Mở tài khoản BIDV', 'Thanh toán khoản vay']",True,typo_unikey,model
+Đien thoai co đinh 01,Điện thoại cố định 01,"['Điện thoại cố định 01', 'Mua mã thẻ điện thoại', 'Thanh toán bảo hiểm', 'Thanh toán tài lộc 68 - amity', 'Quà của tôi']",True,no_diacritics,model
+Điện thoại cố định 01,Điện thoại cố định 01,"['Điện thoại cố định 01', 'Mua mã thẻ điện thoại', 'Thanh toán bảo hiểm', 'Thanh toán tài lộc 68 - amity', 'Quà của tôi']",True,original,model
+Số điện thoại cố định chính,Điện thoại cố định 01,"['Điện thoại cố định 01', 'Mua mã thẻ điện thoại', 'Thanh toán bảo hiểm', 'Thanh toán tài lộc 68 - amity', 'Thanh toán hóa đơn']",True,synonym,model
+Điện thoaji cố ddijnh 01,Điện thoại cố định 01,"['Điện thoại cố định 01', 'Mua mã thẻ điện thoại', 'Thanh toán bảo hiểm', 'Tiền điện', 'Di động trả sau']",True,typo_unikey,model
+Đat hoa,Đặt hoa,"['Đặt hoa', 'Hóa đơn truyền hình', 'Thanh toán hóa đơn', 'Đặt vé tàu', 'Đặt vé xe']",True,no_diacritics,model
+Đặt hoa,Đặt hoa,"['Đặt hoa', 'Hóa đơn truyền hình', 'Thanh toán hóa đơn', 'Đặt vé tàu', 'Đặt vé xe']",True,original,model
+Mua hoa,Đặt hoa,"['Đặt hoa', 'Mua mã thẻ', 'Mua gói học', 'Mua xổ số', 'Mua mã thẻ điện thoại']",True,synonym,model
+ddawjt hoa,Đặt hoa,"['Đặt hoa', 'Thanh toán hóa đơn', 'Hóa đơn truyền hình', 'Mở tài khoản BIDV', 'Thanh toán bảo hiểm']",True,typo_unikey,model
+dat san Golf,Đặt sân Golf,"['Đặt sân Golf', 'Đặt vé máy bay', 'MiniApp Khách sạn', 'Đặt hoa', 'Đặt vé tàu']",True,no_diacritics,model
+Đặt sân Golf,Đặt sân Golf,"['Đặt sân Golf', 'Đặt vé máy bay', 'MiniApp Khách sạn', 'Đặt hoa', 'Đặt vé tàu']",True,original,model
+Đặt lịch chơi Golf,Đặt sân Golf,"['Đặt sân Golf', 'Đặt xe liên tỉnh', 'Đặt vé máy bay', 'Đặt vé xe', 'Phí chung cư']",True,synonym,model
+ddawjt saan Golf,Đặt sân Golf,"['Đặt sân Golf', 'Mở tài khoản BIDV', 'Thanh toán chạm', 'Thanh toán bảo hiểm', 'Mở tài khoản VCB']",True,typo_unikey,model
+dat ve may bay,Đặt vé máy bay,"['Đặt vé máy bay', 'Đặt vé xe', 'Đặt vé tàu', 'Đặt sân Golf', 'Vé tàu']",True,no_diacritics,model
+Đặt vé máy bay,Đặt vé máy bay,"['Đặt vé máy bay', 'Đặt vé xe', 'Đặt vé tàu', 'Đặt sân Golf', 'Vé tàu']",True,original,model
+Đặt chỗ trên máy bay,Đặt vé máy bay,"['Đặt vé máy bay', 'Hóa đơn truyền hình', 'Đặt vé tàu', 'Đặt sân Golf', 'Thanh toán bảo hiểm']",True,synonym,model
+ddawjt ves masy bay,Đặt vé máy bay,"['Đặt vé máy bay', 'Dealtoday', 'LuckyBest', 'Đặt vé xe', 'Đặt sân Golf']",True,typo_unikey,model
+dat ve tau,Đặt vé tàu,"['Đặt vé tàu', 'Vé tàu', 'Đặt vé xe', 'MiniApp Tàu Thủy', 'Đặt vé máy bay']",True,no_diacritics,model
+Đặt vé tàu,Đặt vé tàu,"['Đặt vé tàu', 'Vé tàu', 'Đặt vé xe', 'MiniApp Tàu Thủy', 'Đặt vé máy bay']",True,original,model
+Săn vé tàu,Đặt vé tàu,"['Vé tàu', 'Đặt vé tàu', 'Đặt sân Golf', 'Ví trả sau', 'MiniApp Tàu Thủy']",True,synonym,model
+ddawjt ves tafu,Đặt vé tàu,"['Đặt vé xe', 'LuckyBest', 'Đặt vé tàu', 'Đặt vé máy bay', 'Vé tàu']",True,typo_unikey,model
+dat ve xe,Đặt vé xe,"['Đặt vé xe', 'Đặt xe liên tỉnh', 'Đặt vé tàu', 'Vé xem phim', 'Thuê xe tự lái']",True,no_diacritics,model
+Đặt vé xe,Đặt vé xe,"['Đặt vé xe', 'Đặt xe liên tỉnh', 'Đặt vé tàu', 'Vé xem phim', 'Thuê xe tự lái']",True,original,model
+Mua vé xe,Đặt vé xe,"['Mua xổ số', 'Đặt vé xe', 'Mua mã thẻ', 'Đặt xe liên tỉnh', 'Vé xem phim']",True,synonym,model
+ddawjt ves xe,Đặt vé xe,"['Đặt vé xe', 'Đặt xe liên tỉnh', 'Vé xem phim', 'Thuê xe tự lái', 'LuckyBest']",True,typo_unikey,model
+dat xe lien tinh,Đặt xe liên tỉnh,"['Đặt xe liên tỉnh', 'Đặt vé xe', 'Thuê xe tự lái', 'Mua xổ số', 'Điện thoại cố định 01']",True,no_diacritics,model
+Đặt xe liên tỉnh,Đặt xe liên tỉnh,"['Đặt xe liên tỉnh', 'Đặt vé xe', 'Thuê xe tự lái', 'Mua xổ số', 'Điện thoại cố định 01']",True,original,model
+Đặt vé xe đi tỉnh,Đặt xe liên tỉnh,"['Đặt xe liên tỉnh', 'Đặt vé xe', 'Thuê xe tự lái', 'Đặt vé tàu', 'Dịch vụ y tế']",True,synonym,model
+ddawjt xe lieen tirnh,Đặt xe liên tỉnh,"['Đặt xe liên tỉnh', 'Đặt vé xe', 'Thuê xe tự lái', 'Điện thoại cố định 01', 'Thanh toán khoản vay']",True,typo_unikey,model
+Top up Data  ,Top up Data,"['Top up Data', 'Combo Data - Thoại', 'Data 3G/4G', 'Internet', 'Đặt hoa']",True,original,model
+Internet  ,Internet,"['Internet', 'Taxi', 'e-Gift', 'VnShop', 'Học phí']",True,original,model
+VNPT Media  ,VNPT Media,"['VNPT Media', 'VnShop', 'Mở thẻ VNPAY', 'VNPAY-QR', 'VNPAY Taxi']",True,original,model
+Dealtoday  ,Dealtoday,"['Dealtoday', 'LuckyBest', 'Tặng quà', 'Dịch vụ y tế', 'Tiền điện']",True,original,model
+Taxi  ,Taxi,"['Taxi', 'Gọi Taxi', 'VNPAY Taxi', 'Internet', 'Di động trả sau']",True,original,model
+Data 3G/4G  ,Data 3G/4G,"['Data 3G/4G', 'Internet', 'Top up Data', 'Combo Data - Thoại', 'VNPT Media']",True,original,model
+VNPAY-QR  ,VNPAY-QR,"['VNPAY-QR', 'VNPAY-QR gần đây', 'VNPAY Taxi', 'Mở thẻ VNPAY', 'VNPT Media']",True,original,model
+VNSKY  ,VNSKY,"['VNSKY', 'VnShop', 'Mở thẻ VNPAY', 'VNPAY Taxi', 'VNPAY-QR']",True,original,model
+VNPAY Taxi  ,VNPAY Taxi,"['VNPAY Taxi', 'Mở thẻ VNPAY', 'Taxi', 'VNPAY-QR', 'VNPAY-QR gần đây']",True,original,model
+Vay Nhanh  ,Vay Nhanh,"['Vay Nhanh', 'Thanh toán khoản vay', 'Vay tiêu dùng', 'Mở thẻ VNPAY', 'Mở tài khoản BIDV']",True,original,model
+LuckyBest  ,LuckyBest,"['LuckyBest', 'Dealtoday', 'Combo Data - Thoại', 'Vé tàu', 'Vay tiêu dùng']",True,original,model

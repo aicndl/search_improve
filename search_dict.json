@@ -1,0 +1,539 @@
+{
+  "chuyen tien": [
+    "Chuyển tiền"
+  ],
+  "gui tien": [
+    "Chuyển tiền"
+  ],
+  "chuyeenr tieenf": [
+    "Chuyển tiền"
+  ],
+  "combo data - thoai": [
+    "Combo Data - Thoại"
+  ],
+  "goi du lieu va dien thoai": [
+    "Combo Data - Thoại"
+  ],
+  "combo data - thoaji": [
+    "Combo Data - Thoại"
+  ],
+  "cuoc truyen hinh": [
+    "Cước truyền hình"
+  ],
+  "phi dich vu truyen hinh": [
+    "Cước truyền hình"
+  ],
+  "cuwoc truyen hifnh": [
+    "Cước truyền hình"
+  ],
+  "data 3g/4g": [
+    "Data 3G/4G"
+  ],
+  "dich vu du lieu di dong 3g/4g": [
+    "Data 3G/4G"
+  ],
+  "deal today": [
+    "Dealtoday"
+  ],
+  "giam gia ngay hom nay": [
+    "Dealtoday"
+  ],
+  "dealtoday": [
+    "Dealtoday"
+  ],
+  "di dong tra sau": [
+    "Di động trả sau"
+  ],
+  "tra sau dien di dong": [
+    "Di động trả sau"
+  ],
+  "di ddong trar sau": [
+    "Di động trả sau"
+  ],
+  "dich vu y te": [
+    "Dịch vụ y tế"
+  ],
+  "cham soc suc khoe": [
+    "Dịch vụ y tế"
+  ],
+  "dijch vuj y te": [
+    "Dịch vụ y tế"
+  ],
+  "giao hang": [
+    "Giao hàng"
+  ],
+  "van chuyen hang": [
+    "Giao hàng"
+  ],
+  "giao hafng": [
+    "Giao hàng"
+  ],
+  "giao hang ahamove": [
+    "Giao hàng Ahamove"
+  ],
+  "van chuyen hang ahamove": [
+    "Giao hàng Ahamove"
+  ],
+  "giao hafng ahamove": [
+    "Giao hàng Ahamove"
+  ],
+  "goi taxi": [
+    "Gọi Taxi"
+  ],
+  "goi xe taxi": [
+    "Gọi Taxi"
+  ],
+  "goji taxi": [
+    "Gọi Taxi"
+  ],
+  "hoa don truyen hinh": [
+    "Hóa đơn truyền hình"
+  ],
+  "thanh toan dich vu truyen hinh": [
+    "Hóa đơn truyền hình"
+  ],
+  "hosa ddown truyen hifnh": [
+    "Hóa đơn truyền hình"
+  ],
+  "hoc phi": [
+    "Học phí"
+  ],
+  "phi hoc tap": [
+    "Học phí"
+  ],
+  "hojc phis": [
+    "Học phí"
+  ],
+  "internet": [
+    "Internet"
+  ],
+  "mang internet": [
+    "Internet"
+  ],
+  "luckybest": [
+    "LuckyBest"
+  ],
+  "may man": [
+    "LuckyBest"
+  ],
+  "miniapp khach san": [
+    "MiniApp Khách sạn"
+  ],
+  "ung dung mini cho khach san": [
+    "MiniApp Khách sạn"
+  ],
+  "miniapp khasch sajn": [
+    "MiniApp Khách sạn"
+  ],
+  "miniapp tau thuy": [
+    "MiniApp Tàu Thủy"
+  ],
+  "ung dung mini tau thuy": [
+    "MiniApp Tàu Thủy"
+  ],
+  "miniapp tafu thury": [
+    "MiniApp Tàu Thủy"
+  ],
+  "mua goi hoc": [
+    "Mua gói học"
+  ],
+  "thanh toan goi hoc": [
+    "Mua gói học"
+  ],
+  "mua gosi hojc": [
+    "Mua gói học"
+  ],
+  "mua ma the": [
+    "Mua mã thẻ"
+  ],
+  "mua the tra truoc": [
+    "Mua mã thẻ"
+  ],
+  "mua max ther": [
+    "Mua mã thẻ"
+  ],
+  "mua ma the dien thoai": [
+    "Mua mã thẻ điện thoại"
+  ],
+  "mua the dien thoai tra truoc": [
+    "Mua mã thẻ điện thoại"
+  ],
+  "mua max ther ddien thoaji": [
+    "Mua mã thẻ điện thoại"
+  ],
+  "mua xo so": [
+    "Mua xổ số"
+  ],
+  "tham gia xo so": [
+    "Mua xổ số"
+  ],
+  "mua xoor soos": [
+    "Mua xổ số"
+  ],
+  "mo the vnpay": [
+    "Mở thẻ VNPAY"
+  ],
+  "dang ky the vnpay": [
+    "Mở thẻ VNPAY"
+  ],
+  "mo ther vnpay": [
+    "Mở thẻ VNPAY"
+  ],
+  "mo tai khoan bidv": [
+    "Mở tài khoản BIDV"
+  ],
+  "dang ky tai khoan bidv": [
+    "Mở tài khoản BIDV"
+  ],
+  "mo tafi khoarn bidv": [
+    "Mở tài khoản BIDV"
+  ],
+  "mo tai khoan eximbank": [
+    "Mở tài khoản Eximbank"
+  ],
+  "lap tai khoan tai eximbank": [
+    "Mở tài khoản Eximbank"
+  ],
+  "mo tafi khoarn eximbank": [
+    "Mở tài khoản Eximbank"
+  ],
+  "mo tai khoan vcb": [
+    "Mở tài khoản VCB"
+  ],
+  "dang ky tai khoan vietcombank.": [
+    "Mở tài khoản VCB"
+  ],
+  "mo tafi khoarn vcb": [
+    "Mở tài khoản VCB"
+  ],
+  "mo tai khoan ngan hang": [
+    "Mở tài khoản ngân hàng"
+  ],
+  "tao lap tai khoan ngan hang": [
+    "Mở tài khoản ngân hàng"
+  ],
+  "mo tafi khoarn ngaan hafng": [
+    "Mở tài khoản ngân hàng"
+  ],
+  "nap tien": [
+    "Nạp tiền"
+  ],
+  "them tien vao tai khoan": [
+    "Nạp tiền"
+  ],
+  "najp tien": [
+    "Nạp tiền"
+  ],
+  "nap tien vetc": [
+    "Nạp tiền VETC"
+  ],
+  "bo sung tien vetc": [
+    "Nạp tiền VETC"
+  ],
+  "najp tien vetc": [
+    "Nạp tiền VETC"
+  ],
+  "nap tien epass": [
+    "Nạp tiền ePass"
+  ],
+  "bo sung tien epass": [
+    "Nạp tiền ePass"
+  ],
+  "najp tien epass": [
+    "Nạp tiền ePass"
+  ],
+  "phi chung cu": [
+    "Phí chung cư"
+  ],
+  "phi dich vu chung cu": [
+    "Phí chung cư"
+  ],
+  "phis chung cuw": [
+    "Phí chung cư"
+  ],
+  "qua cua toi": [
+    "Quà của tôi"
+  ],
+  "mon qua danh cho toi": [
+    "Quà của tôi"
+  ],
+  "quaf cura tooi": [
+    "Quà của tôi"
+  ],
+  "rut tien": [
+    "Rút tiền"
+  ],
+  "lay tien mat": [
+    "Rút tiền"
+  ],
+  "rust tien": [
+    "Rút tiền"
+  ],
+  "taxi": [
+    "Taxi"
+  ],
+  "xe o to cho khach": [
+    "Taxi"
+  ],
+  "thanh toan bao hiem": [
+    "Thanh toán bảo hiểm"
+  ],
+  "tra tien bao hiem": [
+    "Thanh toán bảo hiểm"
+  ],
+  "thanh toasn baro hiem": [
+    "Thanh toán bảo hiểm"
+  ],
+  "thanh toan cham": [
+    "Thanh toán chạm"
+  ],
+  "thanh toan khong tiep xuc": [
+    "Thanh toán chạm"
+  ],
+  "thanh toasn chajm": [
+    "Thanh toán chạm"
+  ],
+  "thanh toan hoa don": [
+    "Thanh toán hóa đơn"
+  ],
+  "tra tien hoa don": [
+    "Thanh toán hóa đơn"
+  ],
+  "thanh toasn hosa ddown": [
+    "Thanh toán hóa đơn"
+  ],
+  "thanh toan khoan vay": [
+    "Thanh toán khoản vay"
+  ],
+  "tra no vay": [
+    "Thanh toán khoản vay"
+  ],
+  "thanh toasn khoarn vay": [
+    "Thanh toán khoản vay"
+  ],
+  "thanh toan tai loc 68 - amity": [
+    "Thanh toán tài lộc 68 - amity"
+  ],
+  "dich vu thanh toan tai loc 68 cua amity": [
+    "Thanh toán tài lộc 68 - amity"
+  ],
+  "thanh toasn tafi loc 68 - amity": [
+    "Thanh toán tài lộc 68 - amity"
+  ],
+  "thue xe tu lai": [
+    "Thuê xe tự lái"
+  ],
+  "tra tien xe theo ngay": [
+    "Thuê xe tự lái"
+  ],
+  "thuee xe tu lasi": [
+    "Thuê xe tự lái"
+  ],
+  "the thao - giai tri": [
+    "Thể thao - Giải trí"
+  ],
+  "dich vu giai tri va the thao": [
+    "Thể thao - Giải trí"
+  ],
+  "theer thao - giari tris": [
+    "Thể thao - Giải trí"
+  ],
+  "tien dien": [
+    "Tiền điện"
+  ],
+  "chi phi dien": [
+    "Tiền điện"
+  ],
+  "tien ddien": [
+    "Tiền điện"
+  ],
+  "top up data": [
+    "Top up Data"
+  ],
+  "bo sung dung luong": [
+    "Top up Data"
+  ],
+  "tang qua": [
+    "Tặng quà"
+  ],
+  "trao qua": [
+    "Tặng quà"
+  ],
+  "tawngj quaf": [
+    "Tặng quà"
+  ],
+  "tang qua ban be": [
+    "Tặng quà bạn bè"
+  ],
+  "tang qua cho nguoi ban.": [
+    "Tặng quà bạn bè"
+  ],
+  "tang quaf bajn bef": [
+    "Tặng quà bạn bè"
+  ],
+  "vnpay taxi": [
+    "VNPAY Taxi"
+  ],
+  "taxi vnpay": [
+    "VNPAY Taxi"
+  ],
+  "vnpay-qr": [
+    "VNPAY-QR"
+  ],
+  "phep thanh toan vnpay qua ma qr": [
+    "VNPAY-QR"
+  ],
+  "vnpay-qr gan day": [
+    "VNPAY-QR gần đây"
+  ],
+  "thong tin cap nhat vnpay-qr": [
+    "VNPAY-QR gần đây"
+  ],
+  "vnpay-qr ganaf ddaay": [
+    "VNPAY-QR gần đây"
+  ],
+  "vnpt media": [
+    "VNPT Media"
+  ],
+  "media cua vnpt": [
+    "VNPT Media"
+  ],
+  "vnsky": [
+    "VNSKY"
+  ],
+  "[]": [
+    "VNSKY"
+  ],
+  "vay nhanh": [
+    "Vay Nhanh"
+  ],
+  "\"vay tien nhanh\", \"vay online nhanh\", \"vay de dang\"": [
+    "Vay Nhanh"
+  ],
+  "vay tieu dung": [
+    "Vay tiêu dùng"
+  ],
+  "vay tien mat": [
+    "Vay tiêu dùng"
+  ],
+  "vay tieeu dufng": [
+    "Vay tiêu dùng"
+  ],
+  "vnshop": [
+    "VnShop"
+  ],
+  "vn mua sam truc tuyen": [
+    "VnShop"
+  ],
+  "ve tau": [
+    "Vé tàu"
+  ],
+  "the tau": [
+    "Vé tàu"
+  ],
+  "ves tafu": [
+    "Vé tàu"
+  ],
+  "ve xem phim": [
+    "Vé xem phim"
+  ],
+  "tam ve dien anh": [
+    "Vé xem phim"
+  ],
+  "ves xem phim": [
+    "Vé xem phim"
+  ],
+  "vi tra sau": [
+    "Ví trả sau"
+  ],
+  "thanh toan tra sau qua vi": [
+    "Ví trả sau"
+  ],
+  "vis trar sau": [
+    "Ví trả sau"
+  ],
+  "e-gift": [
+    "e-Gift"
+  ],
+  "qua tang dien tu": [
+    "e-Gift"
+  ],
+  "e-voucher": [
+    "e-Voucher"
+  ],
+  "voucher truc tuyen": [
+    "e-Voucher"
+  ],
+  "epass - thu phi khong dung": [
+    "ePass - Thu phí không dừng"
+  ],
+  "thu phi khong dung voi epass": [
+    "ePass - Thu phí không dừng"
+  ],
+  "epass - thu phis khoong dung": [
+    "ePass - Thu phí không dừng"
+  ],
+  "dien thoai co dinh 01": [
+    "Điện thoại cố định 01"
+  ],
+  "so dien thoai co dinh chinh": [
+    "Điện thoại cố định 01"
+  ],
+  "dien thoaji co ddijnh 01": [
+    "Điện thoại cố định 01"
+  ],
+  "dat hoa": [
+    "Đặt hoa"
+  ],
+  "mua hoa": [
+    "Đặt hoa"
+  ],
+  "ddawjt hoa": [
+    "Đặt hoa"
+  ],
+  "dat san golf": [
+    "Đặt sân Golf"
+  ],
+  "dat lich choi golf": [
+    "Đặt sân Golf"
+  ],
+  "ddawjt saan golf": [
+    "Đặt sân Golf"
+  ],
+  "dat ve may bay": [
+    "Đặt vé máy bay"
+  ],
+  "dat cho tren may bay": [
+    "Đặt vé máy bay"
+  ],
+  "ddawjt ves masy bay": [
+    "Đặt vé máy bay"
+  ],
+  "dat ve tau": [
+    "Đặt vé tàu"
+  ],
+  "san ve tau": [
+    "Đặt vé tàu"
+  ],
+  "ddawjt ves tafu": [
+    "Đặt vé tàu"
+  ],
+  "dat ve xe": [
+    "Đặt vé xe"
+  ],
+  "mua ve xe": [
+    "Đặt vé xe"
+  ],
+  "ddawjt ves xe": [
+    "Đặt vé xe"
+  ],
+  "dat xe lien tinh": [
+    "Đặt xe liên tỉnh"
+  ],
+  "dat ve xe di tinh": [
+    "Đặt xe liên tỉnh"
+  ],
+  "ddawjt xe lieen tirnh": [
+    "Đặt xe liên tỉnh"
+  ]
+}

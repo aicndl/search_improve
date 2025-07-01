@@ -1,0 +1,3586 @@
+[
+  {
+    "keyword": "Chuyen tien",
+    "expected": "Chuyển tiền",
+    "top5_actual": [
+      "Chuyển tiền",
+      "Tiền điện",
+      "Nạp tiền",
+      "Rút tiền",
+      "Nạp tiền ePass"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Chuyển tiền",
+    "expected": "Chuyển tiền",
+    "top5_actual": [
+      "Chuyển tiền",
+      "Tiền điện",
+      "Nạp tiền",
+      "Rút tiền",
+      "Nạp tiền ePass"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Gửi tiền",
+    "expected": "Chuyển tiền",
+    "top5_actual": [
+      "Tiền điện",
+      "Chuyển tiền",
+      "Nạp tiền",
+      "Rút tiền",
+      "Nạp tiền ePass"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Chuyeenr tieenf",
+    "expected": "Chuyển tiền",
+    "top5_actual": [
+      "Chuyển tiền",
+      "Tiền điện",
+      "Rút tiền",
+      "Nạp tiền",
+      "Nạp tiền ePass"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Combo Data - Thoai",
+    "expected": "Combo Data - Thoại",
+    "top5_actual": [
+      "Combo Data - Thoại",
+      "Mua mã thẻ điện thoại",
+      "Thanh toán tài lộc 68 - amity",
+      "Top up Data",
+      "Điện thoại cố định 01"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Combo Data - Thoại",
+    "expected": "Combo Data - Thoại",
+    "top5_actual": [
+      "Combo Data - Thoại",
+      "Mua mã thẻ điện thoại",
+      "Thanh toán tài lộc 68 - amity",
+      "Top up Data",
+      "Điện thoại cố định 01"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Gói dữ liệu và điện thoại",
+    "expected": "Combo Data - Thoại",
+    "top5_actual": [
+      "Combo Data - Thoại",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "dictionary"
+  },
+  {
+    "keyword": "Combo Data - Thoaji",
+    "expected": "Combo Data - Thoại",
+    "top5_actual": [
+      "Combo Data - Thoại",
+      "Mua mã thẻ điện thoại",
+      "Top up Data",
+      "Thanh toán tài lộc 68 - amity",
+      "Điện thoại cố định 01"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Cuoc truyen hinh",
+    "expected": "Cước truyền hình",
+    "top5_actual": [
+      "Cước truyền hình",
+      "Hóa đơn truyền hình",
+      "Di động trả sau",
+      "Ví trả sau",
+      "Thuê xe tự lái"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Cước truyền hình",
+    "expected": "Cước truyền hình",
+    "top5_actual": [
+      "Cước truyền hình",
+      "Hóa đơn truyền hình",
+      "Di động trả sau",
+      "Ví trả sau",
+      "Thuê xe tự lái"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Phí dịch vụ truyền hình",
+    "expected": "Cước truyền hình",
+    "top5_actual": [
+      "Dịch vụ y tế",
+      "Hóa đơn truyền hình",
+      "Cước truyền hình",
+      "Học phí",
+      "ePass - Thu phí không dừng"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Cuwớc truyền hifnh",
+    "expected": "Cước truyền hình",
+    "top5_actual": [
+      "Cước truyền hình",
+      "Hóa đơn truyền hình",
+      "Di động trả sau",
+      "Thuê xe tự lái",
+      "Ví trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Data 3G/4G",
+    "expected": "Data 3G/4G",
+    "top5_actual": [
+      "Data 3G/4G",
+      "Internet",
+      "Top up Data",
+      "Combo Data - Thoại",
+      "VNPT Media"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Dịch vụ dữ liệu di động 3G/4G",
+    "expected": "Data 3G/4G",
+    "top5_actual": [
+      "Data 3G/4G",
+      "Dịch vụ y tế",
+      "Di động trả sau",
+      "Thuê xe tự lái",
+      "Điện thoại cố định 01"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Data 3G/4G",
+    "expected": "Data 3G/4G",
+    "top5_actual": [
+      "Data 3G/4G",
+      "Internet",
+      "Top up Data",
+      "Combo Data - Thoại",
+      "VNPT Media"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Deal today",
+    "expected": "Dealtoday",
+    "top5_actual": [
+      "Dealtoday",
+      "Tặng quà",
+      "LuckyBest",
+      "Nạp tiền",
+      "Tặng quà bạn bè"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Giảm giá ngày hôm nay",
+    "expected": "Dealtoday",
+    "top5_actual": [
+      "Dealtoday",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "dictionary"
+  },
+  {
+    "keyword": "Dealtoday",
+    "expected": "Dealtoday",
+    "top5_actual": [
+      "Dealtoday",
+      "LuckyBest",
+      "Tặng quà",
+      "Dịch vụ y tế",
+      "Tiền điện"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Di dong tra sau",
+    "expected": "Di động trả sau",
+    "top5_actual": [
+      "Di động trả sau",
+      "Ví trả sau",
+      "Quà của tôi",
+      "Hóa đơn truyền hình",
+      "Cước truyền hình"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Di động trả sau",
+    "expected": "Di động trả sau",
+    "top5_actual": [
+      "Di động trả sau",
+      "Ví trả sau",
+      "Quà của tôi",
+      "Hóa đơn truyền hình",
+      "Cước truyền hình"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Trả sau điện di động",
+    "expected": "Di động trả sau",
+    "top5_actual": [
+      "Di động trả sau",
+      "Ví trả sau",
+      "Mua mã thẻ điện thoại",
+      "Hóa đơn truyền hình",
+      "Điện thoại cố định 01"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Di ddộng trar sau",
+    "expected": "Di động trả sau",
+    "top5_actual": [
+      "Di động trả sau",
+      "Ví trả sau",
+      "Hóa đơn truyền hình",
+      "Cước truyền hình",
+      "Thanh toán bảo hiểm"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Dich vu y te",
+    "expected": "Dịch vụ y tế",
+    "top5_actual": [
+      "Dịch vụ y tế",
+      "Mở thẻ VNPAY",
+      "Đặt vé xe",
+      "Hóa đơn truyền hình",
+      "Thuê xe tự lái"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Dịch vụ y tế",
+    "expected": "Dịch vụ y tế",
+    "top5_actual": [
+      "Dịch vụ y tế",
+      "Mở thẻ VNPAY",
+      "Đặt vé xe",
+      "Hóa đơn truyền hình",
+      "Thuê xe tự lái"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Chăm sóc sức khỏe",
+    "expected": "Dịch vụ y tế",
+    "top5_actual": [
+      "Dịch vụ y tế",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "dictionary"
+  },
+  {
+    "keyword": "Dijch vuj y tế",
+    "expected": "Dịch vụ y tế",
+    "top5_actual": [
+      "Dịch vụ y tế",
+      "Mở thẻ VNPAY",
+      "Đặt vé xe",
+      "Hóa đơn truyền hình",
+      "Đặt vé máy bay"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Giao hang",
+    "expected": "Giao hàng",
+    "top5_actual": [
+      "Giao hàng",
+      "Giao hàng Ahamove",
+      "Thể thao - Giải trí",
+      "Mở tài khoản ngân hàng",
+      "Mua xổ số"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Giao hàng",
+    "expected": "Giao hàng",
+    "top5_actual": [
+      "Giao hàng",
+      "Giao hàng Ahamove",
+      "Thể thao - Giải trí",
+      "Mở tài khoản ngân hàng",
+      "Mua xổ số"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "vận chuyển hàng ",
+    "expected": "Giao hàng",
+    "top5_actual": [
+      "Chuyển tiền",
+      "Mở tài khoản ngân hàng",
+      "Vay tiêu dùng",
+      "Giao hàng",
+      "Giao hàng Ahamove"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Giao hafng",
+    "expected": "Giao hàng",
+    "top5_actual": [
+      "Giao hàng Ahamove",
+      "Giao hàng",
+      "Thể thao - Giải trí",
+      "Hóa đơn truyền hình",
+      "Mua gói học"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Giao hang Ahamove",
+    "expected": "Giao hàng Ahamove",
+    "top5_actual": [
+      "Giao hàng Ahamove",
+      "Giao hàng",
+      "Thể thao - Giải trí",
+      "Mở tài khoản ngân hàng",
+      "Mua mã thẻ điện thoại"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Giao hàng Ahamove",
+    "expected": "Giao hàng Ahamove",
+    "top5_actual": [
+      "Giao hàng Ahamove",
+      "Giao hàng",
+      "Thể thao - Giải trí",
+      "Mở tài khoản ngân hàng",
+      "Mua mã thẻ điện thoại"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "vận chuyển hàng Ahamove",
+    "expected": "Giao hàng Ahamove",
+    "top5_actual": [
+      "Chuyển tiền",
+      "Giao hàng Ahamove",
+      "Mở tài khoản ngân hàng",
+      "Hóa đơn truyền hình",
+      "Vay tiêu dùng"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Giao hafng Ahamove",
+    "expected": "Giao hàng Ahamove",
+    "top5_actual": [
+      "Giao hàng Ahamove",
+      "Giao hàng",
+      "Thể thao - Giải trí",
+      "Mua mã thẻ điện thoại",
+      "Hóa đơn truyền hình"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Goi Taxi",
+    "expected": "Gọi Taxi",
+    "top5_actual": [
+      "Gọi Taxi",
+      "Taxi",
+      "VNPAY Taxi",
+      "Mua gói học",
+      "Quà của tôi"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Gọi Taxi",
+    "expected": "Gọi Taxi",
+    "top5_actual": [
+      "Gọi Taxi",
+      "Taxi",
+      "VNPAY Taxi",
+      "Mua gói học",
+      "Quà của tôi"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Gọi xe taxi",
+    "expected": "Gọi Taxi",
+    "top5_actual": [
+      "Gọi Taxi",
+      "Taxi",
+      "VNPAY Taxi",
+      "Đặt xe liên tỉnh",
+      "Mua gói học"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Goji Taxi",
+    "expected": "Gọi Taxi",
+    "top5_actual": [
+      "Gọi Taxi",
+      "Taxi",
+      "VNPAY Taxi",
+      "Mua gói học",
+      "Thanh toán bảo hiểm"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Hoa don truyen hinh",
+    "expected": "Hóa đơn truyền hình",
+    "top5_actual": [
+      "Hóa đơn truyền hình",
+      "Cước truyền hình",
+      "Thanh toán hóa đơn",
+      "Đặt hoa",
+      "Di động trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Hóa đơn truyền hình",
+    "expected": "Hóa đơn truyền hình",
+    "top5_actual": [
+      "Hóa đơn truyền hình",
+      "Cước truyền hình",
+      "Thanh toán hóa đơn",
+      "Đặt hoa",
+      "Di động trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "thanh toán dịch vụ truyền hình",
+    "expected": "Hóa đơn truyền hình",
+    "top5_actual": [
+      "Thanh toán bảo hiểm",
+      "Thanh toán hóa đơn",
+      "Thanh toán khoản vay",
+      "Thanh toán chạm",
+      "Hóa đơn truyền hình"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Hosa ddown truyền hifnh",
+    "expected": "Hóa đơn truyền hình",
+    "top5_actual": [
+      "Hóa đơn truyền hình",
+      "Cước truyền hình",
+      "Đặt hoa",
+      "Thanh toán hóa đơn",
+      "Di động trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Hoc phi",
+    "expected": "Học phí",
+    "top5_actual": [
+      "Học phí",
+      "Phí chung cư",
+      "ePass - Thu phí không dừng",
+      "Mua gói học",
+      "Vé tàu"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Học phí",
+    "expected": "Học phí",
+    "top5_actual": [
+      "Học phí",
+      "Phí chung cư",
+      "ePass - Thu phí không dừng",
+      "Mua gói học",
+      "Vé tàu"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Phí học tập",
+    "expected": "Học phí",
+    "top5_actual": [
+      "Học phí",
+      "Phí chung cư",
+      "ePass - Thu phí không dừng",
+      "Vé tàu",
+      "Mua gói học"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Hojc phis",
+    "expected": "Học phí",
+    "top5_actual": [
+      "Học phí",
+      "Đặt hoa",
+      "Phí chung cư",
+      "ePass - Thu phí không dừng",
+      "Hóa đơn truyền hình"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Internet",
+    "expected": "Internet",
+    "top5_actual": [
+      "Internet",
+      "Taxi",
+      "e-Gift",
+      "VnShop",
+      "Học phí"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Mạng Internet",
+    "expected": "Internet",
+    "top5_actual": [
+      "Internet",
+      "Data 3G/4G",
+      "Tiền điện",
+      "Nạp tiền ePass",
+      "Rút tiền"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Internet",
+    "expected": "Internet",
+    "top5_actual": [
+      "Internet",
+      "Taxi",
+      "e-Gift",
+      "VnShop",
+      "Học phí"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "LuckyBest",
+    "expected": "LuckyBest",
+    "top5_actual": [
+      "LuckyBest",
+      "Dealtoday",
+      "Combo Data - Thoại",
+      "Vé tàu",
+      "Vay tiêu dùng"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "may mắn",
+    "expected": "LuckyBest",
+    "top5_actual": [
+      "LuckyBest",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "dictionary"
+  },
+  {
+    "keyword": "LuckyBest",
+    "expected": "LuckyBest",
+    "top5_actual": [
+      "LuckyBest",
+      "Dealtoday",
+      "Combo Data - Thoại",
+      "Vé tàu",
+      "Vay tiêu dùng"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "MiniApp Khach san",
+    "expected": "MiniApp Khách sạn",
+    "top5_actual": [
+      "MiniApp Khách sạn",
+      "MiniApp Tàu Thủy",
+      "Mở tài khoản VCB",
+      "Mở tài khoản BIDV",
+      "Đặt sân Golf"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "MiniApp Khách sạn",
+    "expected": "MiniApp Khách sạn",
+    "top5_actual": [
+      "MiniApp Khách sạn",
+      "MiniApp Tàu Thủy",
+      "Mở tài khoản VCB",
+      "Mở tài khoản BIDV",
+      "Đặt sân Golf"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Ứng dụng mini cho khách sạn",
+    "expected": "MiniApp Khách sạn",
+    "top5_actual": [
+      "MiniApp Khách sạn",
+      "ePass - Thu phí không dừng",
+      "Mở tài khoản VCB",
+      "Mở tài khoản BIDV",
+      "Thanh toán bảo hiểm"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "MiniApp Khasch sajn",
+    "expected": "MiniApp Khách sạn",
+    "top5_actual": [
+      "MiniApp Khách sạn",
+      "MiniApp Tàu Thủy",
+      "ePass - Thu phí không dừng",
+      "Mở tài khoản BIDV",
+      "Mở tài khoản VCB"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "MiniApp Tau Thuy",
+    "expected": "MiniApp Tàu Thủy",
+    "top5_actual": [
+      "MiniApp Tàu Thủy",
+      "MiniApp Khách sạn",
+      "Vé tàu",
+      "Đặt vé tàu",
+      "Thuê xe tự lái"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "MiniApp Tàu Thủy",
+    "expected": "MiniApp Tàu Thủy",
+    "top5_actual": [
+      "MiniApp Tàu Thủy",
+      "MiniApp Khách sạn",
+      "Vé tàu",
+      "Đặt vé tàu",
+      "Thuê xe tự lái"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Ứng dụng mini tàu thủy",
+    "expected": "MiniApp Tàu Thủy",
+    "top5_actual": [
+      "MiniApp Tàu Thủy",
+      "ePass - Thu phí không dừng",
+      "Đặt vé tàu",
+      "Vé tàu",
+      "Thuê xe tự lái"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "MiniApp Tafu Thury",
+    "expected": "MiniApp Tàu Thủy",
+    "top5_actual": [
+      "MiniApp Tàu Thủy",
+      "MiniApp Khách sạn",
+      "Thuê xe tự lái",
+      "Tặng quà",
+      "Mua mã thẻ điện thoại"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Mua goi hoc",
+    "expected": "Mua gói học",
+    "top5_actual": [
+      "Mua gói học",
+      "Mua mã thẻ",
+      "Mua xổ số",
+      "Mua mã thẻ điện thoại",
+      "Quà của tôi"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Mua gói học",
+    "expected": "Mua gói học",
+    "top5_actual": [
+      "Mua gói học",
+      "Mua mã thẻ",
+      "Mua xổ số",
+      "Mua mã thẻ điện thoại",
+      "Quà của tôi"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "thanh toán gói học",
+    "expected": "Mua gói học",
+    "top5_actual": [
+      "Thanh toán hóa đơn",
+      "Thanh toán bảo hiểm",
+      "Thanh toán chạm",
+      "Thanh toán khoản vay",
+      "Mua gói học"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Mua gosi hojc",
+    "expected": "Mua gói học",
+    "top5_actual": [
+      "Mua gói học",
+      "Đặt hoa",
+      "Mua mã thẻ",
+      "Mua mã thẻ điện thoại",
+      "Mua xổ số"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Mua ma the",
+    "expected": "Mua mã thẻ",
+    "top5_actual": [
+      "Mua mã thẻ",
+      "Mua xổ số",
+      "Mua mã thẻ điện thoại",
+      "Mua gói học",
+      "Quà của tôi"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Mua mã thẻ",
+    "expected": "Mua mã thẻ",
+    "top5_actual": [
+      "Mua mã thẻ",
+      "Mua xổ số",
+      "Mua mã thẻ điện thoại",
+      "Mua gói học",
+      "Quà của tôi"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Mua thẻ trả trước",
+    "expected": "Mua mã thẻ",
+    "top5_actual": [
+      "Ví trả sau",
+      "Di động trả sau",
+      "Mua mã thẻ",
+      "Cước truyền hình",
+      "Hóa đơn truyền hình"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Mua max ther",
+    "expected": "Mua mã thẻ",
+    "top5_actual": [
+      "Mua mã thẻ",
+      "Mua xổ số",
+      "Mua mã thẻ điện thoại",
+      "Mua gói học",
+      "Thanh toán tài lộc 68 - amity"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Mua ma the đien thoai",
+    "expected": "Mua mã thẻ điện thoại",
+    "top5_actual": [
+      "Mua mã thẻ điện thoại",
+      "Mua mã thẻ",
+      "Mua xổ số",
+      "Điện thoại cố định 01",
+      "Mua gói học"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Mua mã thẻ điện thoại",
+    "expected": "Mua mã thẻ điện thoại",
+    "top5_actual": [
+      "Mua mã thẻ điện thoại",
+      "Mua mã thẻ",
+      "Mua xổ số",
+      "Điện thoại cố định 01",
+      "Mua gói học"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "mua thẻ điện thoại trả trước",
+    "expected": "Mua mã thẻ điện thoại",
+    "top5_actual": [
+      "Mua mã thẻ điện thoại",
+      "Di động trả sau",
+      "Ví trả sau",
+      "Điện thoại cố định 01",
+      "Hóa đơn truyền hình"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Mua max ther ddiện thoaji",
+    "expected": "Mua mã thẻ điện thoại",
+    "top5_actual": [
+      "Mua mã thẻ điện thoại",
+      "Di động trả sau",
+      "Mua xổ số",
+      "Thanh toán bảo hiểm",
+      "Mua mã thẻ"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Mua xo so",
+    "expected": "Mua xổ số",
+    "top5_actual": [
+      "Mua xổ số",
+      "Mua mã thẻ",
+      "Mua mã thẻ điện thoại",
+      "Mua gói học",
+      "Quà của tôi"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Mua xổ số",
+    "expected": "Mua xổ số",
+    "top5_actual": [
+      "Mua xổ số",
+      "Mua mã thẻ",
+      "Mua mã thẻ điện thoại",
+      "Mua gói học",
+      "Quà của tôi"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Tham gia xổ số",
+    "expected": "Mua xổ số",
+    "top5_actual": [
+      "Thể thao - Giải trí",
+      "Mua xổ số",
+      "Giao hàng",
+      "Giao hàng Ahamove",
+      "Quà của tôi"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Mua xoor soos",
+    "expected": "Mua xổ số",
+    "top5_actual": [
+      "Mua xổ số",
+      "Mua mã thẻ",
+      "Mua mã thẻ điện thoại",
+      "Mua gói học",
+      "Đặt xe liên tỉnh"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Mo the VNPAY",
+    "expected": "Mở thẻ VNPAY",
+    "top5_actual": [
+      "Mở thẻ VNPAY",
+      "VNPAY Taxi",
+      "VNPAY-QR",
+      "VNPAY-QR gần đây",
+      "Mở tài khoản VCB"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Mở thẻ VNPAY",
+    "expected": "Mở thẻ VNPAY",
+    "top5_actual": [
+      "Mở thẻ VNPAY",
+      "VNPAY Taxi",
+      "VNPAY-QR",
+      "VNPAY-QR gần đây",
+      "Mở tài khoản VCB"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Đăng ký thẻ VNPAY",
+    "expected": "Mở thẻ VNPAY",
+    "top5_actual": [
+      "Mở thẻ VNPAY",
+      "VNPAY Taxi",
+      "VNPAY-QR gần đây",
+      "VNPAY-QR",
+      "Vay Nhanh"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Mở ther VNPAY",
+    "expected": "Mở thẻ VNPAY",
+    "top5_actual": [
+      "Mở thẻ VNPAY",
+      "VNPAY-QR",
+      "VNPAY-QR gần đây",
+      "VNPAY Taxi",
+      "Mở tài khoản VCB"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Mo tai khoan BIDV",
+    "expected": "Mở tài khoản BIDV",
+    "top5_actual": [
+      "Mở tài khoản BIDV",
+      "Mở tài khoản VCB",
+      "Mở tài khoản ngân hàng",
+      "Mở tài khoản Eximbank",
+      "Thanh toán khoản vay"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Mở tài khoản BIDV",
+    "expected": "Mở tài khoản BIDV",
+    "top5_actual": [
+      "Mở tài khoản BIDV",
+      "Mở tài khoản VCB",
+      "Mở tài khoản ngân hàng",
+      "Mở tài khoản Eximbank",
+      "Thanh toán khoản vay"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Đăng ký tài khoản BIDV",
+    "expected": "Mở tài khoản BIDV",
+    "top5_actual": [
+      "Mở tài khoản BIDV",
+      "Mở tài khoản ngân hàng",
+      "Mở tài khoản VCB",
+      "Thanh toán khoản vay",
+      "Thanh toán tài lộc 68 - amity"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Mở tafi khoarn BIDV",
+    "expected": "Mở tài khoản BIDV",
+    "top5_actual": [
+      "Mở tài khoản BIDV",
+      "Mở tài khoản VCB",
+      "Mở tài khoản ngân hàng",
+      "Mở tài khoản Eximbank",
+      "Thanh toán khoản vay"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Mo tai khoan Eximbank",
+    "expected": "Mở tài khoản Eximbank",
+    "top5_actual": [
+      "Mở tài khoản Eximbank",
+      "Mở tài khoản VCB",
+      "Mở tài khoản BIDV",
+      "Mở tài khoản ngân hàng",
+      "Thanh toán khoản vay"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Mở tài khoản Eximbank",
+    "expected": "Mở tài khoản Eximbank",
+    "top5_actual": [
+      "Mở tài khoản Eximbank",
+      "Mở tài khoản VCB",
+      "Mở tài khoản BIDV",
+      "Mở tài khoản ngân hàng",
+      "Thanh toán khoản vay"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Lập tài khoản tại Eximbank",
+    "expected": "Mở tài khoản Eximbank",
+    "top5_actual": [
+      "Mở tài khoản Eximbank",
+      "Mở tài khoản VCB",
+      "Mở tài khoản BIDV",
+      "Mở tài khoản ngân hàng",
+      "Tặng quà"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Mở tafi khoarn Eximbank",
+    "expected": "Mở tài khoản Eximbank",
+    "top5_actual": [
+      "Mở tài khoản Eximbank",
+      "Mở tài khoản VCB",
+      "Mở tài khoản BIDV",
+      "Mở tài khoản ngân hàng",
+      "Mở thẻ VNPAY"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Mo tai khoan VCB",
+    "expected": "Mở tài khoản VCB",
+    "top5_actual": [
+      "Mở tài khoản VCB",
+      "Mở tài khoản BIDV",
+      "Mở tài khoản Eximbank",
+      "Mở tài khoản ngân hàng",
+      "Mở thẻ VNPAY"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Mở tài khoản VCB",
+    "expected": "Mở tài khoản VCB",
+    "top5_actual": [
+      "Mở tài khoản VCB",
+      "Mở tài khoản BIDV",
+      "Mở tài khoản Eximbank",
+      "Mở tài khoản ngân hàng",
+      "Mở thẻ VNPAY"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Đăng ký tài khoản Vietcombank.",
+    "expected": "Mở tài khoản VCB",
+    "top5_actual": [
+      "Mở tài khoản BIDV",
+      "Mở tài khoản ngân hàng",
+      "Mở tài khoản VCB",
+      "Thanh toán khoản vay",
+      "Mở tài khoản Eximbank"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Mở tafi khoarn VCB",
+    "expected": "Mở tài khoản VCB",
+    "top5_actual": [
+      "Mở tài khoản VCB",
+      "Mở tài khoản BIDV",
+      "Mở thẻ VNPAY",
+      "Mở tài khoản Eximbank",
+      "Mở tài khoản ngân hàng"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Mo tai khoan ngan hang",
+    "expected": "Mở tài khoản ngân hàng",
+    "top5_actual": [
+      "Mở tài khoản ngân hàng",
+      "Mở tài khoản BIDV",
+      "Mở tài khoản VCB",
+      "Mở tài khoản Eximbank",
+      "Mua mã thẻ điện thoại"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Mở tài khoản ngân hàng",
+    "expected": "Mở tài khoản ngân hàng",
+    "top5_actual": [
+      "Mở tài khoản ngân hàng",
+      "Mở tài khoản BIDV",
+      "Mở tài khoản VCB",
+      "Mở tài khoản Eximbank",
+      "Mua mã thẻ điện thoại"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Tạo lập tài khoản ngân hàng",
+    "expected": "Mở tài khoản ngân hàng",
+    "top5_actual": [
+      "Mở tài khoản ngân hàng",
+      "Mở tài khoản BIDV",
+      "Mở tài khoản Eximbank",
+      "Mở tài khoản VCB",
+      "Mua mã thẻ điện thoại"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Mở tafi khoarn ngaan hafng",
+    "expected": "Mở tài khoản ngân hàng",
+    "top5_actual": [
+      "Mở tài khoản ngân hàng",
+      "Mở tài khoản BIDV",
+      "Mở tài khoản VCB",
+      "Mở tài khoản Eximbank",
+      "Mua mã thẻ điện thoại"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Nap tien",
+    "expected": "Nạp tiền",
+    "top5_actual": [
+      "Nạp tiền",
+      "Nạp tiền ePass",
+      "Nạp tiền VETC",
+      "Tiền điện",
+      "Rút tiền"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Nạp tiền",
+    "expected": "Nạp tiền",
+    "top5_actual": [
+      "Nạp tiền",
+      "Nạp tiền ePass",
+      "Nạp tiền VETC",
+      "Tiền điện",
+      "Rút tiền"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Thêm tiền vào tài khoản",
+    "expected": "Nạp tiền",
+    "top5_actual": [
+      "Nạp tiền",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "dictionary"
+  },
+  {
+    "keyword": "Najp tiền",
+    "expected": "Nạp tiền",
+    "top5_actual": [
+      "Rút tiền",
+      "Nạp tiền",
+      "Tiền điện",
+      "Nạp tiền ePass",
+      "Chuyển tiền"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Nap tien VETC",
+    "expected": "Nạp tiền VETC",
+    "top5_actual": [
+      "Nạp tiền VETC",
+      "Nạp tiền",
+      "Nạp tiền ePass",
+      "Tiền điện",
+      "Vay tiêu dùng"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Nạp tiền VETC",
+    "expected": "Nạp tiền VETC",
+    "top5_actual": [
+      "Nạp tiền VETC",
+      "Nạp tiền",
+      "Nạp tiền ePass",
+      "Tiền điện",
+      "Vay tiêu dùng"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Bổ sung tiền VETC",
+    "expected": "Nạp tiền VETC",
+    "top5_actual": [
+      "Nạp tiền VETC",
+      "Vay tiêu dùng",
+      "Tiền điện",
+      "Nạp tiền",
+      "Rút tiền"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Najp tiền VETC",
+    "expected": "Nạp tiền VETC",
+    "top5_actual": [
+      "Nạp tiền VETC",
+      "Nạp tiền",
+      "Rút tiền",
+      "Nạp tiền ePass",
+      "Tiền điện"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Nap tien ePass",
+    "expected": "Nạp tiền ePass",
+    "top5_actual": [
+      "Nạp tiền ePass",
+      "Nạp tiền",
+      "Nạp tiền VETC",
+      "Tiền điện",
+      "Rút tiền"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Nạp tiền ePass",
+    "expected": "Nạp tiền ePass",
+    "top5_actual": [
+      "Nạp tiền ePass",
+      "Nạp tiền",
+      "Nạp tiền VETC",
+      "Tiền điện",
+      "Rút tiền"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "bổ sung tiền ePass",
+    "expected": "Nạp tiền ePass",
+    "top5_actual": [
+      "Nạp tiền ePass",
+      "Tiền điện",
+      "Rút tiền",
+      "Nạp tiền",
+      "Chuyển tiền"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Najp tiền ePass",
+    "expected": "Nạp tiền ePass",
+    "top5_actual": [
+      "Nạp tiền ePass",
+      "Rút tiền",
+      "Tiền điện",
+      "Nạp tiền",
+      "Nạp tiền VETC"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Phi chung cu",
+    "expected": "Phí chung cư",
+    "top5_actual": [
+      "Phí chung cư",
+      "ePass - Thu phí không dừng",
+      "Học phí",
+      "Cước truyền hình",
+      "Di động trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Phí chung cư",
+    "expected": "Phí chung cư",
+    "top5_actual": [
+      "Phí chung cư",
+      "ePass - Thu phí không dừng",
+      "Học phí",
+      "Cước truyền hình",
+      "Di động trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Phí dịch vụ chung cư",
+    "expected": "Phí chung cư",
+    "top5_actual": [
+      "Phí chung cư",
+      "Dịch vụ y tế",
+      "ePass - Thu phí không dừng",
+      "Học phí",
+      "Di động trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Phis chung cuw",
+    "expected": "Phí chung cư",
+    "top5_actual": [
+      "Phí chung cư",
+      "ePass - Thu phí không dừng",
+      "Học phí",
+      "Cước truyền hình",
+      "Vé xem phim"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Qua cua toi",
+    "expected": "Quà của tôi",
+    "top5_actual": [
+      "Quà của tôi",
+      "Tặng quà",
+      "Mua gói học",
+      "Di động trả sau",
+      "Thể thao - Giải trí"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Quà của tôi",
+    "expected": "Quà của tôi",
+    "top5_actual": [
+      "Quà của tôi",
+      "Tặng quà",
+      "Mua gói học",
+      "Di động trả sau",
+      "Thể thao - Giải trí"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Món quà dành cho tôi",
+    "expected": "Quà của tôi",
+    "top5_actual": [
+      "Quà của tôi",
+      "Thanh toán bảo hiểm",
+      "Thanh toán hóa đơn",
+      "Di động trả sau",
+      "Mua gói học"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Quaf cura tooi",
+    "expected": "Quà của tôi",
+    "top5_actual": [
+      "Quà của tôi",
+      "Thể thao - Giải trí",
+      "Tặng quà",
+      "Mua mã thẻ điện thoại",
+      "Thuê xe tự lái"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Rut tien",
+    "expected": "Rút tiền",
+    "top5_actual": [
+      "Rút tiền",
+      "Nạp tiền",
+      "Tiền điện",
+      "Nạp tiền ePass",
+      "Chuyển tiền"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Rút tiền",
+    "expected": "Rút tiền",
+    "top5_actual": [
+      "Rút tiền",
+      "Nạp tiền",
+      "Tiền điện",
+      "Nạp tiền ePass",
+      "Chuyển tiền"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "lấy tiền mặt",
+    "expected": "Rút tiền",
+    "top5_actual": [
+      "Nạp tiền",
+      "Nạp tiền ePass",
+      "Tiền điện",
+      "Rút tiền",
+      "Chuyển tiền"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Rust tiền",
+    "expected": "Rút tiền",
+    "top5_actual": [
+      "Nạp tiền",
+      "Tiền điện",
+      "Rút tiền",
+      "Nạp tiền ePass",
+      "Nạp tiền VETC"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Taxi",
+    "expected": "Taxi",
+    "top5_actual": [
+      "Taxi",
+      "Gọi Taxi",
+      "VNPAY Taxi",
+      "Internet",
+      "Di động trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Xe ô tô chở khách",
+    "expected": "Taxi",
+    "top5_actual": [
+      "Taxi",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "dictionary"
+  },
+  {
+    "keyword": "Taxi",
+    "expected": "Taxi",
+    "top5_actual": [
+      "Taxi",
+      "Gọi Taxi",
+      "VNPAY Taxi",
+      "Internet",
+      "Di động trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Thanh toan bao hiem",
+    "expected": "Thanh toán bảo hiểm",
+    "top5_actual": [
+      "Thanh toán bảo hiểm",
+      "Thanh toán hóa đơn",
+      "Thanh toán chạm",
+      "Thanh toán tài lộc 68 - amity",
+      "Thanh toán khoản vay"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Thanh toán bảo hiểm",
+    "expected": "Thanh toán bảo hiểm",
+    "top5_actual": [
+      "Thanh toán bảo hiểm",
+      "Thanh toán hóa đơn",
+      "Thanh toán chạm",
+      "Thanh toán tài lộc 68 - amity",
+      "Thanh toán khoản vay"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "trả tiền bảo hiểm",
+    "expected": "Thanh toán bảo hiểm",
+    "top5_actual": [
+      "Thanh toán bảo hiểm",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "dictionary"
+  },
+  {
+    "keyword": "Thanh toasn baro hiểm",
+    "expected": "Thanh toán bảo hiểm",
+    "top5_actual": [
+      "Thanh toán bảo hiểm",
+      "Thanh toán hóa đơn",
+      "Thanh toán chạm",
+      "Thanh toán khoản vay",
+      "Thanh toán tài lộc 68 - amity"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Thanh toan cham",
+    "expected": "Thanh toán chạm",
+    "top5_actual": [
+      "Thanh toán chạm",
+      "Thanh toán hóa đơn",
+      "Thanh toán bảo hiểm",
+      "Thanh toán tài lộc 68 - amity",
+      "Thanh toán khoản vay"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Thanh toán chạm",
+    "expected": "Thanh toán chạm",
+    "top5_actual": [
+      "Thanh toán chạm",
+      "Thanh toán hóa đơn",
+      "Thanh toán bảo hiểm",
+      "Thanh toán tài lộc 68 - amity",
+      "Thanh toán khoản vay"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Thanh toán không tiếp xúc",
+    "expected": "Thanh toán chạm",
+    "top5_actual": [
+      "Thanh toán bảo hiểm",
+      "Thanh toán tài lộc 68 - amity",
+      "Thanh toán khoản vay",
+      "Thanh toán hóa đơn",
+      "Thanh toán chạm"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Thanh toasn chajm",
+    "expected": "Thanh toán chạm",
+    "top5_actual": [
+      "Thanh toán chạm",
+      "Thanh toán bảo hiểm",
+      "Thanh toán hóa đơn",
+      "Thanh toán khoản vay",
+      "Thanh toán tài lộc 68 - amity"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Thanh toan hoa don",
+    "expected": "Thanh toán hóa đơn",
+    "top5_actual": [
+      "Thanh toán hóa đơn",
+      "Thanh toán chạm",
+      "Thanh toán bảo hiểm",
+      "Thanh toán khoản vay",
+      "Thanh toán tài lộc 68 - amity"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Thanh toán hóa đơn",
+    "expected": "Thanh toán hóa đơn",
+    "top5_actual": [
+      "Thanh toán hóa đơn",
+      "Thanh toán chạm",
+      "Thanh toán bảo hiểm",
+      "Thanh toán khoản vay",
+      "Thanh toán tài lộc 68 - amity"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Trả tiền hóa đơn",
+    "expected": "Thanh toán hóa đơn",
+    "top5_actual": [
+      "Hóa đơn truyền hình",
+      "Tiền điện",
+      "Thanh toán hóa đơn",
+      "Đặt hoa",
+      "Di động trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Thanh toasn hosa ddown",
+    "expected": "Thanh toán hóa đơn",
+    "top5_actual": [
+      "Thanh toán hóa đơn",
+      "Thanh toán bảo hiểm",
+      "Thanh toán chạm",
+      "Thanh toán tài lộc 68 - amity",
+      "Thanh toán khoản vay"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Thanh toan khoan vay",
+    "expected": "Thanh toán khoản vay",
+    "top5_actual": [
+      "Thanh toán khoản vay",
+      "Thanh toán hóa đơn",
+      "Thanh toán chạm",
+      "Thanh toán bảo hiểm",
+      "Vay Nhanh"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Thanh toán khoản vay",
+    "expected": "Thanh toán khoản vay",
+    "top5_actual": [
+      "Thanh toán khoản vay",
+      "Thanh toán hóa đơn",
+      "Thanh toán chạm",
+      "Thanh toán bảo hiểm",
+      "Vay Nhanh"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Trả nợ vay",
+    "expected": "Thanh toán khoản vay",
+    "top5_actual": [
+      "Thanh toán khoản vay",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "dictionary"
+  },
+  {
+    "keyword": "Thanh toasn khoarn vay",
+    "expected": "Thanh toán khoản vay",
+    "top5_actual": [
+      "Thanh toán khoản vay",
+      "Thanh toán hóa đơn",
+      "Vay Nhanh",
+      "Thanh toán bảo hiểm",
+      "Thanh toán chạm"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Thanh toan tai loc 68 - amity",
+    "expected": "Thanh toán tài lộc 68 - amity",
+    "top5_actual": [
+      "Thanh toán tài lộc 68 - amity",
+      "Thanh toán bảo hiểm",
+      "Thanh toán chạm",
+      "Thanh toán hóa đơn",
+      "Thanh toán khoản vay"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Thanh toán tài lộc 68 - amity",
+    "expected": "Thanh toán tài lộc 68 - amity",
+    "top5_actual": [
+      "Thanh toán tài lộc 68 - amity",
+      "Thanh toán bảo hiểm",
+      "Thanh toán chạm",
+      "Thanh toán hóa đơn",
+      "Thanh toán khoản vay"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Dịch vụ thanh toán tài lộc 68 của Amity",
+    "expected": "Thanh toán tài lộc 68 - amity",
+    "top5_actual": [
+      "Thanh toán tài lộc 68 - amity",
+      "Dịch vụ y tế",
+      "Thanh toán bảo hiểm",
+      "Thanh toán hóa đơn",
+      "Quà của tôi"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Thanh toasn tafi lộc 68 - amity",
+    "expected": "Thanh toán tài lộc 68 - amity",
+    "top5_actual": [
+      "Thanh toán tài lộc 68 - amity",
+      "Thanh toán chạm",
+      "Thanh toán hóa đơn",
+      "Thanh toán bảo hiểm",
+      "Thanh toán khoản vay"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Thue xe tu lai",
+    "expected": "Thuê xe tự lái",
+    "top5_actual": [
+      "Thuê xe tự lái",
+      "Đặt xe liên tỉnh",
+      "Đặt vé xe",
+      "Quà của tôi",
+      "Di động trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Thuê xe tự lái",
+    "expected": "Thuê xe tự lái",
+    "top5_actual": [
+      "Thuê xe tự lái",
+      "Đặt xe liên tỉnh",
+      "Đặt vé xe",
+      "Quà của tôi",
+      "Di động trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "trả tiền xe theo ngày",
+    "expected": "Thuê xe tự lái",
+    "top5_actual": [
+      "Đặt xe liên tỉnh",
+      "Tiền điện",
+      "Thuê xe tự lái",
+      "Nạp tiền ePass",
+      "Rút tiền"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Thuee xe tự lasi",
+    "expected": "Thuê xe tự lái",
+    "top5_actual": [
+      "Thuê xe tự lái",
+      "Quà của tôi",
+      "Đặt xe liên tỉnh",
+      "Thể thao - Giải trí",
+      "Đặt vé xe"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "The thao - Giai tri",
+    "expected": "Thể thao - Giải trí",
+    "top5_actual": [
+      "Thể thao - Giải trí",
+      "Quà của tôi",
+      "Giao hàng",
+      "Giao hàng Ahamove",
+      "Thuê xe tự lái"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Thể thao - Giải trí",
+    "expected": "Thể thao - Giải trí",
+    "top5_actual": [
+      "Thể thao - Giải trí",
+      "Quà của tôi",
+      "Giao hàng",
+      "Giao hàng Ahamove",
+      "Thuê xe tự lái"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "dịch vụ giải trí và thể thao",
+    "expected": "Thể thao - Giải trí",
+    "top5_actual": [
+      "Thể thao - Giải trí",
+      "Quà của tôi",
+      "Dịch vụ y tế",
+      "Thuê xe tự lái",
+      "Di động trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Theer thao - Giari tris",
+    "expected": "Thể thao - Giải trí",
+    "top5_actual": [
+      "Thể thao - Giải trí",
+      "Quà của tôi",
+      "Giao hàng Ahamove",
+      "Giao hàng",
+      "Thuê xe tự lái"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Tien dien",
+    "expected": "Tiền điện",
+    "top5_actual": [
+      "Tiền điện",
+      "Nạp tiền",
+      "Chuyển tiền",
+      "Nạp tiền ePass",
+      "Rút tiền"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Tiền điện",
+    "expected": "Tiền điện",
+    "top5_actual": [
+      "Tiền điện",
+      "Nạp tiền",
+      "Chuyển tiền",
+      "Nạp tiền ePass",
+      "Rút tiền"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Chi phí điện",
+    "expected": "Tiền điện",
+    "top5_actual": [
+      "Phí chung cư",
+      "Học phí",
+      "Tiền điện",
+      "ePass - Thu phí không dừng",
+      "Thanh toán hóa đơn"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Tiền ddiện",
+    "expected": "Tiền điện",
+    "top5_actual": [
+      "Tiền điện",
+      "Chuyển tiền",
+      "Nạp tiền",
+      "Nạp tiền ePass",
+      "Rút tiền"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Top up Data",
+    "expected": "Top up Data",
+    "top5_actual": [
+      "Top up Data",
+      "Combo Data - Thoại",
+      "Data 3G/4G",
+      "Internet",
+      "Đặt hoa"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Bổ sung dung lượng",
+    "expected": "Top up Data",
+    "top5_actual": [
+      "Top up Data",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "dictionary"
+  },
+  {
+    "keyword": "Top up Data",
+    "expected": "Top up Data",
+    "top5_actual": [
+      "Top up Data",
+      "Combo Data - Thoại",
+      "Data 3G/4G",
+      "Internet",
+      "Đặt hoa"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Tang qua",
+    "expected": "Tặng quà",
+    "top5_actual": [
+      "Tặng quà",
+      "Tặng quà bạn bè",
+      "Quà của tôi",
+      "Mua gói học",
+      "Mua mã thẻ điện thoại"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Tặng quà",
+    "expected": "Tặng quà",
+    "top5_actual": [
+      "Tặng quà",
+      "Tặng quà bạn bè",
+      "Quà của tôi",
+      "Mua gói học",
+      "Mua mã thẻ điện thoại"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Trao quà",
+    "expected": "Tặng quà",
+    "top5_actual": [
+      "Ví trả sau",
+      "Quà của tôi",
+      "Di động trả sau",
+      "Tặng quà",
+      "Hóa đơn truyền hình"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "tawngj quaf",
+    "expected": "Tặng quà",
+    "top5_actual": [
+      "Tặng quà",
+      "Nạp tiền ePass",
+      "Nạp tiền VETC",
+      "Nạp tiền",
+      "Mở tài khoản BIDV"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Tang qua ban be",
+    "expected": "Tặng quà bạn bè",
+    "top5_actual": [
+      "Tặng quà bạn bè",
+      "Tặng quà",
+      "Quà của tôi",
+      "Mua mã thẻ điện thoại",
+      "Thanh toán bảo hiểm"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Tặng quà bạn bè",
+    "expected": "Tặng quà bạn bè",
+    "top5_actual": [
+      "Tặng quà bạn bè",
+      "Tặng quà",
+      "Quà của tôi",
+      "Mua mã thẻ điện thoại",
+      "Thanh toán bảo hiểm"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Tặng quà cho người bạn.",
+    "expected": "Tặng quà bạn bè",
+    "top5_actual": [
+      "Tặng quà bạn bè",
+      "Tặng quà",
+      "Di động trả sau",
+      "Quà của tôi",
+      "Mua gói học"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Tặng quaf bajn bef",
+    "expected": "Tặng quà bạn bè",
+    "top5_actual": [
+      "Tặng quà",
+      "Tặng quà bạn bè",
+      "Thanh toán tài lộc 68 - amity",
+      "Thanh toán bảo hiểm",
+      "Thanh toán chạm"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "VNPAY Taxi",
+    "expected": "VNPAY Taxi",
+    "top5_actual": [
+      "VNPAY Taxi",
+      "Mở thẻ VNPAY",
+      "Taxi",
+      "VNPAY-QR",
+      "VNPAY-QR gần đây"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Taxi VNPAY",
+    "expected": "VNPAY Taxi",
+    "top5_actual": [
+      "VNPAY Taxi",
+      "Taxi",
+      "Mở thẻ VNPAY",
+      "VNPAY-QR",
+      "VNPAY-QR gần đây"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "VNPAY Taxi",
+    "expected": "VNPAY Taxi",
+    "top5_actual": [
+      "VNPAY Taxi",
+      "Mở thẻ VNPAY",
+      "Taxi",
+      "VNPAY-QR",
+      "VNPAY-QR gần đây"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "VNPAY-QR",
+    "expected": "VNPAY-QR",
+    "top5_actual": [
+      "VNPAY-QR",
+      "VNPAY-QR gần đây",
+      "VNPAY Taxi",
+      "Mở thẻ VNPAY",
+      "VNPT Media"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Phép thanh toán VNPAY qua mã QR",
+    "expected": "VNPAY-QR",
+    "top5_actual": [
+      "VNPAY-QR",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "dictionary"
+  },
+  {
+    "keyword": "VNPAY-QR",
+    "expected": "VNPAY-QR",
+    "top5_actual": [
+      "VNPAY-QR",
+      "VNPAY-QR gần đây",
+      "VNPAY Taxi",
+      "Mở thẻ VNPAY",
+      "VNPT Media"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "VNPAY-QR gan đay",
+    "expected": "VNPAY-QR gần đây",
+    "top5_actual": [
+      "VNPAY-QR gần đây",
+      "VNPAY-QR",
+      "VNPAY Taxi",
+      "Mở thẻ VNPAY",
+      "VNPT Media"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "VNPAY-QR gần đây",
+    "expected": "VNPAY-QR gần đây",
+    "top5_actual": [
+      "VNPAY-QR gần đây",
+      "VNPAY-QR",
+      "VNPAY Taxi",
+      "Mở thẻ VNPAY",
+      "VNPT Media"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Thông tin cập nhật VNPAY-QR",
+    "expected": "VNPAY-QR gần đây",
+    "top5_actual": [
+      "VNPAY-QR",
+      "VNPAY-QR gần đây",
+      "Tặng quà",
+      "Mở thẻ VNPAY",
+      "VNPAY Taxi"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "VNPAY-QR ganaf ddaay",
+    "expected": "VNPAY-QR gần đây",
+    "top5_actual": [
+      "VNPAY-QR gần đây",
+      "VNPAY-QR",
+      "Mở thẻ VNPAY",
+      "VNPAY Taxi",
+      "VNPT Media"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "VNPT Media",
+    "expected": "VNPT Media",
+    "top5_actual": [
+      "VNPT Media",
+      "VnShop",
+      "Mở thẻ VNPAY",
+      "VNPAY-QR",
+      "VNPAY Taxi"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Media của VNPT",
+    "expected": "VNPT Media",
+    "top5_actual": [
+      "VNPT Media",
+      "Mở thẻ VNPAY",
+      "VnShop",
+      "VNPAY-QR",
+      "Quà của tôi"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "VNPT Media",
+    "expected": "VNPT Media",
+    "top5_actual": [
+      "VNPT Media",
+      "VnShop",
+      "Mở thẻ VNPAY",
+      "VNPAY-QR",
+      "VNPAY Taxi"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "VNSKY",
+    "expected": "VNSKY",
+    "top5_actual": [
+      "VNSKY",
+      "VnShop",
+      "Mở thẻ VNPAY",
+      "VNPAY Taxi",
+      "VNPAY-QR"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "[]",
+    "expected": "VNSKY",
+    "top5_actual": [
+      "VNSKY",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "dictionary"
+  },
+  {
+    "keyword": "VNSKY",
+    "expected": "VNSKY",
+    "top5_actual": [
+      "VNSKY",
+      "VnShop",
+      "Mở thẻ VNPAY",
+      "VNPAY Taxi",
+      "VNPAY-QR"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Vay Nhanh",
+    "expected": "Vay Nhanh",
+    "top5_actual": [
+      "Vay Nhanh",
+      "Thanh toán khoản vay",
+      "Vay tiêu dùng",
+      "Mở thẻ VNPAY",
+      "Mở tài khoản BIDV"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "\"Vay Tiền Nhanh\", \"Vay Online Nhanh\", \"Vay Dễ Dàng\"",
+    "expected": "Vay Nhanh",
+    "top5_actual": [
+      "Vay Nhanh",
+      "Vay tiêu dùng",
+      "Thanh toán khoản vay",
+      "Tiền điện",
+      "Nạp tiền VETC"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Vay Nhanh",
+    "expected": "Vay Nhanh",
+    "top5_actual": [
+      "Vay Nhanh",
+      "Thanh toán khoản vay",
+      "Vay tiêu dùng",
+      "Mở thẻ VNPAY",
+      "Mở tài khoản BIDV"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Vay tieu dung",
+    "expected": "Vay tiêu dùng",
+    "top5_actual": [
+      "Vay tiêu dùng",
+      "Vay Nhanh",
+      "Nạp tiền VETC",
+      "Ví trả sau",
+      "Chuyển tiền"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Vay tiêu dùng",
+    "expected": "Vay tiêu dùng",
+    "top5_actual": [
+      "Vay tiêu dùng",
+      "Vay Nhanh",
+      "Nạp tiền VETC",
+      "Ví trả sau",
+      "Chuyển tiền"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Vay tiền mặt",
+    "expected": "Vay tiêu dùng",
+    "top5_actual": [
+      "Vay tiêu dùng",
+      "Tiền điện",
+      "Nạp tiền VETC",
+      "Vay Nhanh",
+      "Nạp tiền"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Vay tieeu dufng",
+    "expected": "Vay tiêu dùng",
+    "top5_actual": [
+      "Vay tiêu dùng",
+      "Tiền điện",
+      "Vay Nhanh",
+      "Nạp tiền VETC",
+      "Chuyển tiền"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "VnShop",
+    "expected": "VnShop",
+    "top5_actual": [
+      "VnShop",
+      "VNSKY",
+      "VNPT Media",
+      "VNPAY Taxi",
+      "Mở thẻ VNPAY"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Vn mua sắm trực tuyến",
+    "expected": "VnShop",
+    "top5_actual": [
+      "VnShop",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "dictionary"
+  },
+  {
+    "keyword": "VnShop",
+    "expected": "VnShop",
+    "top5_actual": [
+      "VnShop",
+      "VNSKY",
+      "VNPT Media",
+      "VNPAY Taxi",
+      "Mở thẻ VNPAY"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "VnShop",
+    "expected": "VnShop",
+    "top5_actual": [
+      "VnShop",
+      "VNSKY",
+      "VNPT Media",
+      "VNPAY Taxi",
+      "Mở thẻ VNPAY"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Ve tau",
+    "expected": "Vé tàu",
+    "top5_actual": [
+      "Vé tàu",
+      "Đặt vé tàu",
+      "MiniApp Tàu Thủy",
+      "Đặt vé xe",
+      "Ví trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Vé tàu",
+    "expected": "Vé tàu",
+    "top5_actual": [
+      "Vé tàu",
+      "Đặt vé tàu",
+      "MiniApp Tàu Thủy",
+      "Đặt vé xe",
+      "Ví trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Thẻ tàu",
+    "expected": "Vé tàu",
+    "top5_actual": [
+      "Vé tàu",
+      "Đặt vé tàu",
+      "MiniApp Tàu Thủy",
+      "Học phí",
+      "Phí chung cư"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Ves tafu",
+    "expected": "Vé tàu",
+    "top5_actual": [
+      "Vé tàu",
+      "Đặt vé xe",
+      "Đặt vé tàu",
+      "Ví trả sau",
+      "Đặt vé máy bay"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Ve xem phim",
+    "expected": "Vé xem phim",
+    "top5_actual": [
+      "Vé xem phim",
+      "Đặt vé xe",
+      "Mua xổ số",
+      "Vé tàu",
+      "ePass - Thu phí không dừng"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Vé xem phim",
+    "expected": "Vé xem phim",
+    "top5_actual": [
+      "Vé xem phim",
+      "Đặt vé xe",
+      "Mua xổ số",
+      "Vé tàu",
+      "ePass - Thu phí không dừng"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Tấm vé điện ảnh",
+    "expected": "Vé xem phim",
+    "top5_actual": [
+      "Vé xem phim",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "dictionary"
+  },
+  {
+    "keyword": "Ves xem phim",
+    "expected": "Vé xem phim",
+    "top5_actual": [
+      "Vé xem phim",
+      "Đặt vé xe",
+      "Mua xổ số",
+      "Vé tàu",
+      "Đặt vé tàu"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Vi tra sau",
+    "expected": "Ví trả sau",
+    "top5_actual": [
+      "Ví trả sau",
+      "Di động trả sau",
+      "Quà của tôi",
+      "Vay tiêu dùng",
+      "Cước truyền hình"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Ví trả sau",
+    "expected": "Ví trả sau",
+    "top5_actual": [
+      "Ví trả sau",
+      "Di động trả sau",
+      "Quà của tôi",
+      "Vay tiêu dùng",
+      "Cước truyền hình"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Thanh toán trả sau qua ví",
+    "expected": "Ví trả sau",
+    "top5_actual": [
+      "Ví trả sau",
+      "Quà của tôi",
+      "Thanh toán hóa đơn",
+      "Thanh toán bảo hiểm",
+      "Thanh toán khoản vay"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Vis trar sau",
+    "expected": "Ví trả sau",
+    "top5_actual": [
+      "Ví trả sau",
+      "Di động trả sau",
+      "Hóa đơn truyền hình",
+      "Vay tiêu dùng",
+      "Cước truyền hình"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "e-Gift",
+    "expected": "e-Gift",
+    "top5_actual": [
+      "e-Gift",
+      "e-Voucher",
+      "Internet",
+      "Học phí",
+      "Taxi"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Quà tặng điện tử",
+    "expected": "e-Gift",
+    "top5_actual": [
+      "e-Gift",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "dictionary"
+  },
+  {
+    "keyword": "e-Gift",
+    "expected": "e-Gift",
+    "top5_actual": [
+      "e-Gift",
+      "e-Voucher",
+      "Internet",
+      "Học phí",
+      "Taxi"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "e-Gift",
+    "expected": "e-Gift",
+    "top5_actual": [
+      "e-Gift",
+      "e-Voucher",
+      "Internet",
+      "Học phí",
+      "Taxi"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "e-Voucher",
+    "expected": "e-Voucher",
+    "top5_actual": [
+      "e-Voucher",
+      "e-Gift",
+      "Internet",
+      "VNPAY Taxi",
+      "VnShop"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "e-Voucher",
+    "expected": "e-Voucher",
+    "top5_actual": [
+      "e-Voucher",
+      "e-Gift",
+      "Internet",
+      "VNPAY Taxi",
+      "VnShop"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Voucher trực tuyến",
+    "expected": "e-Voucher",
+    "top5_actual": [
+      "e-Voucher",
+      "Cước truyền hình",
+      "Hóa đơn truyền hình",
+      "Chuyển tiền",
+      "Ví trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "e-Voucher",
+    "expected": "e-Voucher",
+    "top5_actual": [
+      "e-Voucher",
+      "e-Gift",
+      "Internet",
+      "VNPAY Taxi",
+      "VnShop"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "ePass - Thu phi khong dung",
+    "expected": "ePass - Thu phí không dừng",
+    "top5_actual": [
+      "ePass - Thu phí không dừng",
+      "Phí chung cư",
+      "Thanh toán tài lộc 68 - amity",
+      "Học phí",
+      "Thanh toán bảo hiểm"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "ePass - Thu phí không dừng",
+    "expected": "ePass - Thu phí không dừng",
+    "top5_actual": [
+      "ePass - Thu phí không dừng",
+      "Phí chung cư",
+      "Thanh toán tài lộc 68 - amity",
+      "Học phí",
+      "Thanh toán bảo hiểm"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Thu phí không dừng với ePass",
+    "expected": "ePass - Thu phí không dừng",
+    "top5_actual": [
+      "ePass - Thu phí không dừng",
+      "Phí chung cư",
+      "Di động trả sau",
+      "Thuê xe tự lái",
+      "Học phí"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "ePass - Thu phis khoong dừng",
+    "expected": "ePass - Thu phí không dừng",
+    "top5_actual": [
+      "ePass - Thu phí không dừng",
+      "Phí chung cư",
+      "Học phí",
+      "Mở tài khoản BIDV",
+      "Thanh toán khoản vay"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Đien thoai co đinh 01",
+    "expected": "Điện thoại cố định 01",
+    "top5_actual": [
+      "Điện thoại cố định 01",
+      "Mua mã thẻ điện thoại",
+      "Thanh toán bảo hiểm",
+      "Thanh toán tài lộc 68 - amity",
+      "Quà của tôi"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Điện thoại cố định 01",
+    "expected": "Điện thoại cố định 01",
+    "top5_actual": [
+      "Điện thoại cố định 01",
+      "Mua mã thẻ điện thoại",
+      "Thanh toán bảo hiểm",
+      "Thanh toán tài lộc 68 - amity",
+      "Quà của tôi"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Số điện thoại cố định chính",
+    "expected": "Điện thoại cố định 01",
+    "top5_actual": [
+      "Điện thoại cố định 01",
+      "Mua mã thẻ điện thoại",
+      "Thanh toán bảo hiểm",
+      "Thanh toán tài lộc 68 - amity",
+      "Thanh toán hóa đơn"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "Điện thoaji cố ddijnh 01",
+    "expected": "Điện thoại cố định 01",
+    "top5_actual": [
+      "Điện thoại cố định 01",
+      "Mua mã thẻ điện thoại",
+      "Thanh toán bảo hiểm",
+      "Tiền điện",
+      "Di động trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Đat hoa",
+    "expected": "Đặt hoa",
+    "top5_actual": [
+      "Đặt hoa",
+      "Hóa đơn truyền hình",
+      "Thanh toán hóa đơn",
+      "Đặt vé tàu",
+      "Đặt vé xe"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Đặt hoa",
+    "expected": "Đặt hoa",
+    "top5_actual": [
+      "Đặt hoa",
+      "Hóa đơn truyền hình",
+      "Thanh toán hóa đơn",
+      "Đặt vé tàu",
+      "Đặt vé xe"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Mua hoa",
+    "expected": "Đặt hoa",
+    "top5_actual": [
+      "Đặt hoa",
+      "Mua mã thẻ",
+      "Mua gói học",
+      "Mua xổ số",
+      "Mua mã thẻ điện thoại"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "ddawjt hoa",
+    "expected": "Đặt hoa",
+    "top5_actual": [
+      "Đặt hoa",
+      "Thanh toán hóa đơn",
+      "Hóa đơn truyền hình",
+      "Mở tài khoản BIDV",
+      "Thanh toán bảo hiểm"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "dat san Golf",
+    "expected": "Đặt sân Golf",
+    "top5_actual": [
+      "Đặt sân Golf",
+      "Đặt vé máy bay",
+      "MiniApp Khách sạn",
+      "Đặt hoa",
+      "Đặt vé tàu"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Đặt sân Golf",
+    "expected": "Đặt sân Golf",
+    "top5_actual": [
+      "Đặt sân Golf",
+      "Đặt vé máy bay",
+      "MiniApp Khách sạn",
+      "Đặt hoa",
+      "Đặt vé tàu"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Đặt lịch chơi Golf",
+    "expected": "Đặt sân Golf",
+    "top5_actual": [
+      "Đặt sân Golf",
+      "Đặt xe liên tỉnh",
+      "Đặt vé máy bay",
+      "Đặt vé xe",
+      "Phí chung cư"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "ddawjt saan Golf",
+    "expected": "Đặt sân Golf",
+    "top5_actual": [
+      "Đặt sân Golf",
+      "Mở tài khoản BIDV",
+      "Thanh toán chạm",
+      "Thanh toán bảo hiểm",
+      "Mở tài khoản VCB"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "dat ve may bay",
+    "expected": "Đặt vé máy bay",
+    "top5_actual": [
+      "Đặt vé máy bay",
+      "Đặt vé xe",
+      "Đặt vé tàu",
+      "Đặt sân Golf",
+      "Vé tàu"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Đặt vé máy bay",
+    "expected": "Đặt vé máy bay",
+    "top5_actual": [
+      "Đặt vé máy bay",
+      "Đặt vé xe",
+      "Đặt vé tàu",
+      "Đặt sân Golf",
+      "Vé tàu"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Đặt chỗ trên máy bay",
+    "expected": "Đặt vé máy bay",
+    "top5_actual": [
+      "Đặt vé máy bay",
+      "Hóa đơn truyền hình",
+      "Đặt vé tàu",
+      "Đặt sân Golf",
+      "Thanh toán bảo hiểm"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "ddawjt ves masy bay",
+    "expected": "Đặt vé máy bay",
+    "top5_actual": [
+      "Đặt vé máy bay",
+      "Dealtoday",
+      "LuckyBest",
+      "Đặt vé xe",
+      "Đặt sân Golf"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "dat ve tau",
+    "expected": "Đặt vé tàu",
+    "top5_actual": [
+      "Đặt vé tàu",
+      "Vé tàu",
+      "Đặt vé xe",
+      "MiniApp Tàu Thủy",
+      "Đặt vé máy bay"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Đặt vé tàu",
+    "expected": "Đặt vé tàu",
+    "top5_actual": [
+      "Đặt vé tàu",
+      "Vé tàu",
+      "Đặt vé xe",
+      "MiniApp Tàu Thủy",
+      "Đặt vé máy bay"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Săn vé tàu",
+    "expected": "Đặt vé tàu",
+    "top5_actual": [
+      "Vé tàu",
+      "Đặt vé tàu",
+      "Đặt sân Golf",
+      "Ví trả sau",
+      "MiniApp Tàu Thủy"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "ddawjt ves tafu",
+    "expected": "Đặt vé tàu",
+    "top5_actual": [
+      "Đặt vé xe",
+      "LuckyBest",
+      "Đặt vé tàu",
+      "Đặt vé máy bay",
+      "Vé tàu"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "dat ve xe",
+    "expected": "Đặt vé xe",
+    "top5_actual": [
+      "Đặt vé xe",
+      "Đặt xe liên tỉnh",
+      "Đặt vé tàu",
+      "Vé xem phim",
+      "Thuê xe tự lái"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Đặt vé xe",
+    "expected": "Đặt vé xe",
+    "top5_actual": [
+      "Đặt vé xe",
+      "Đặt xe liên tỉnh",
+      "Đặt vé tàu",
+      "Vé xem phim",
+      "Thuê xe tự lái"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Mua vé xe",
+    "expected": "Đặt vé xe",
+    "top5_actual": [
+      "Mua xổ số",
+      "Đặt vé xe",
+      "Mua mã thẻ",
+      "Đặt xe liên tỉnh",
+      "Vé xem phim"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "ddawjt ves xe",
+    "expected": "Đặt vé xe",
+    "top5_actual": [
+      "Đặt vé xe",
+      "Đặt xe liên tỉnh",
+      "Vé xem phim",
+      "Thuê xe tự lái",
+      "LuckyBest"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "dat xe lien tinh",
+    "expected": "Đặt xe liên tỉnh",
+    "top5_actual": [
+      "Đặt xe liên tỉnh",
+      "Đặt vé xe",
+      "Thuê xe tự lái",
+      "Mua xổ số",
+      "Điện thoại cố định 01"
+    ],
+    "is_hit": true,
+    "case_type": "no_diacritics",
+    "method": "model"
+  },
+  {
+    "keyword": "Đặt xe liên tỉnh",
+    "expected": "Đặt xe liên tỉnh",
+    "top5_actual": [
+      "Đặt xe liên tỉnh",
+      "Đặt vé xe",
+      "Thuê xe tự lái",
+      "Mua xổ số",
+      "Điện thoại cố định 01"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Đặt vé xe đi tỉnh",
+    "expected": "Đặt xe liên tỉnh",
+    "top5_actual": [
+      "Đặt xe liên tỉnh",
+      "Đặt vé xe",
+      "Thuê xe tự lái",
+      "Đặt vé tàu",
+      "Dịch vụ y tế"
+    ],
+    "is_hit": true,
+    "case_type": "synonym",
+    "method": "model"
+  },
+  {
+    "keyword": "ddawjt xe lieen tirnh",
+    "expected": "Đặt xe liên tỉnh",
+    "top5_actual": [
+      "Đặt xe liên tỉnh",
+      "Đặt vé xe",
+      "Thuê xe tự lái",
+      "Điện thoại cố định 01",
+      "Thanh toán khoản vay"
+    ],
+    "is_hit": true,
+    "case_type": "typo_unikey",
+    "method": "model"
+  },
+  {
+    "keyword": "Top up Data  ",
+    "expected": "Top up Data",
+    "top5_actual": [
+      "Top up Data",
+      "Combo Data - Thoại",
+      "Data 3G/4G",
+      "Internet",
+      "Đặt hoa"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Internet  ",
+    "expected": "Internet",
+    "top5_actual": [
+      "Internet",
+      "Taxi",
+      "e-Gift",
+      "VnShop",
+      "Học phí"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "VNPT Media  ",
+    "expected": "VNPT Media",
+    "top5_actual": [
+      "VNPT Media",
+      "VnShop",
+      "Mở thẻ VNPAY",
+      "VNPAY-QR",
+      "VNPAY Taxi"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Dealtoday  ",
+    "expected": "Dealtoday",
+    "top5_actual": [
+      "Dealtoday",
+      "LuckyBest",
+      "Tặng quà",
+      "Dịch vụ y tế",
+      "Tiền điện"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Taxi  ",
+    "expected": "Taxi",
+    "top5_actual": [
+      "Taxi",
+      "Gọi Taxi",
+      "VNPAY Taxi",
+      "Internet",
+      "Di động trả sau"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Data 3G/4G  ",
+    "expected": "Data 3G/4G",
+    "top5_actual": [
+      "Data 3G/4G",
+      "Internet",
+      "Top up Data",
+      "Combo Data - Thoại",
+      "VNPT Media"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "VNPAY-QR  ",
+    "expected": "VNPAY-QR",
+    "top5_actual": [
+      "VNPAY-QR",
+      "VNPAY-QR gần đây",
+      "VNPAY Taxi",
+      "Mở thẻ VNPAY",
+      "VNPT Media"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "VNSKY  ",
+    "expected": "VNSKY",
+    "top5_actual": [
+      "VNSKY",
+      "VnShop",
+      "Mở thẻ VNPAY",
+      "VNPAY Taxi",
+      "VNPAY-QR"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "VNPAY Taxi  ",
+    "expected": "VNPAY Taxi",
+    "top5_actual": [
+      "VNPAY Taxi",
+      "Mở thẻ VNPAY",
+      "Taxi",
+      "VNPAY-QR",
+      "VNPAY-QR gần đây"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "Vay Nhanh  ",
+    "expected": "Vay Nhanh",
+    "top5_actual": [
+      "Vay Nhanh",
+      "Thanh toán khoản vay",
+      "Vay tiêu dùng",
+      "Mở thẻ VNPAY",
+      "Mở tài khoản BIDV"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  },
+  {
+    "keyword": "LuckyBest  ",
+    "expected": "LuckyBest",
+    "top5_actual": [
+      "LuckyBest",
+      "Dealtoday",
+      "Combo Data - Thoại",
+      "Vé tàu",
+      "Vay tiêu dùng"
+    ],
+    "is_hit": true,
+    "case_type": "original",
+    "method": "model"
+  }
+]
