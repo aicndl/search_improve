@@ -1,0 +1,257 @@
+keyword,expected,actual,is_hit,case_type
+Chuyen tien,Chuyển tiền,Chuyển tiền,True,no_diacritics
+Chuyển tiền,Chuyển tiền,Chuyển tiền,True,original
+Gửi tiền,Chuyển tiền,Tiền điện,False,synonym
+Chuyeenr tieenf,Chuyển tiền,Chuyển tiền,True,typo_unikey
+Combo Data - Thoai,Combo Data - Thoại,Combo Data - Thoại,True,no_diacritics
+Combo Data - Thoại,Combo Data - Thoại,Combo Data - Thoại,True,original
+Gói dữ liệu và điện thoại,Combo Data - Thoại,Mua mã thẻ điện thoại,False,synonym
+Combo Data - Thoaji,Combo Data - Thoại,Combo Data - Thoại,True,typo_unikey
+Cuoc truyen hinh,Cước truyền hình,Cước truyền hình,True,no_diacritics
+Cước truyền hình,Cước truyền hình,Cước truyền hình,True,original
+Phí dịch vụ truyền hình,Cước truyền hình,Dịch vụ y tế,False,synonym
+Cuwớc truyền hifnh,Cước truyền hình,Cước truyền hình,True,typo_unikey
+Data 3G/4G,Data 3G/4G,Data 3G/4G,True,no_diacritics
+Dịch vụ dữ liệu di động 3G/4G,Data 3G/4G,Data 3G/4G,True,synonym
+Data 3G/4G,Data 3G/4G,Data 3G/4G,True,typo_unikey
+Deal today,Dealtoday,Dealtoday,True,no_diacritics
+Giảm giá ngày hôm nay,Dealtoday,Giao hàng,False,synonym
+Dealtoday,Dealtoday,Dealtoday,True,typo_unikey
+Di dong tra sau,Di động trả sau,Di động trả sau,True,no_diacritics
+Di động trả sau,Di động trả sau,Di động trả sau,True,original
+Trả sau điện di động,Di động trả sau,Di động trả sau,True,synonym
+Di ddộng trar sau,Di động trả sau,Di động trả sau,True,typo_unikey
+Dich vu y te,Dịch vụ y tế,Dịch vụ y tế,True,no_diacritics
+Dịch vụ y tế,Dịch vụ y tế,Dịch vụ y tế,True,original
+Chăm sóc sức khỏe,Dịch vụ y tế,Thanh toán chạm,False,synonym
+Dijch vuj y tế,Dịch vụ y tế,Dịch vụ y tế,True,typo_unikey
+Giao hang,Giao hàng,Giao hàng,True,no_diacritics
+Giao hàng,Giao hàng,Giao hàng,True,original
+vận chuyển hàng ,Giao hàng,Chuyển tiền,False,synonym
+Giao hafng,Giao hàng,Giao hàng Ahamove,False,typo_unikey
+Giao hang Ahamove,Giao hàng Ahamove,Giao hàng Ahamove,True,no_diacritics
+Giao hàng Ahamove,Giao hàng Ahamove,Giao hàng Ahamove,True,original
+vận chuyển hàng Ahamove,Giao hàng Ahamove,Chuyển tiền,False,synonym
+Giao hafng Ahamove,Giao hàng Ahamove,Giao hàng Ahamove,True,typo_unikey
+Goi Taxi,Gọi Taxi,Gọi Taxi,True,no_diacritics
+Gọi Taxi,Gọi Taxi,Gọi Taxi,True,original
+Gọi xe taxi,Gọi Taxi,Gọi Taxi,True,synonym
+Goji Taxi,Gọi Taxi,Gọi Taxi,True,typo_unikey
+Hoa don truyen hinh,Hóa đơn truyền hình,Hóa đơn truyền hình,True,no_diacritics
+Hóa đơn truyền hình,Hóa đơn truyền hình,Hóa đơn truyền hình,True,original
+thanh toán dịch vụ truyền hình,Hóa đơn truyền hình,Thanh toán khoản vay,False,synonym
+Hosa ddown truyền hifnh,Hóa đơn truyền hình,Hóa đơn truyền hình,True,typo_unikey
+Hoc phi,Học phí,Học phí,True,no_diacritics
+Học phí,Học phí,Học phí,True,original
+Phí học tập,Học phí,Học phí,True,synonym
+Hojc phis,Học phí,Học phí,True,typo_unikey
+Internet,Internet,Internet,True,no_diacritics
+Mạng Internet,Internet,Internet,True,synonym
+Internet,Internet,Internet,True,typo_unikey
+LuckyBest,LuckyBest,LuckyBest,True,no_diacritics
+may mắn,LuckyBest,Đặt vé máy bay,False,synonym
+LuckyBest,LuckyBest,LuckyBest,True,typo_unikey
+MiniApp Khach san,MiniApp Khách sạn,MiniApp Khách sạn,True,no_diacritics
+MiniApp Khách sạn,MiniApp Khách sạn,MiniApp Khách sạn,True,original
+Ứng dụng mini cho khách sạn,MiniApp Khách sạn,MiniApp Khách sạn,True,synonym
+MiniApp Khasch sajn,MiniApp Khách sạn,MiniApp Khách sạn,True,typo_unikey
+MiniApp Tau Thuy,MiniApp Tàu Thủy,MiniApp Tàu Thủy,True,no_diacritics
+MiniApp Tàu Thủy,MiniApp Tàu Thủy,MiniApp Tàu Thủy,True,original
+Ứng dụng mini tàu thủy,MiniApp Tàu Thủy,MiniApp Tàu Thủy,True,synonym
+MiniApp Tafu Thury,MiniApp Tàu Thủy,MiniApp Tàu Thủy,True,typo_unikey
+Mua goi hoc,Mua gói học,Mua gói học,True,no_diacritics
+Mua gói học,Mua gói học,Mua gói học,True,original
+thanh toán gói học,Mua gói học,Thanh toán hóa đơn,False,synonym
+Mua gosi hojc,Mua gói học,Mua gói học,True,typo_unikey
+Mua ma the,Mua mã thẻ,Mua mã thẻ,True,no_diacritics
+Mua mã thẻ,Mua mã thẻ,Mua mã thẻ,True,original
+Mua thẻ trả trước,Mua mã thẻ,Ví trả sau,False,synonym
+Mua max ther,Mua mã thẻ,Mua mã thẻ,True,typo_unikey
+Mua ma the đien thoai,Mua mã thẻ điện thoại,Mua mã thẻ điện thoại,True,no_diacritics
+Mua mã thẻ điện thoại,Mua mã thẻ điện thoại,Mua mã thẻ điện thoại,True,original
+mua thẻ điện thoại trả trước,Mua mã thẻ điện thoại,Mua mã thẻ điện thoại,True,synonym
+Mua max ther ddiện thoaji,Mua mã thẻ điện thoại,Mua mã thẻ điện thoại,True,typo_unikey
+Mua xo so,Mua xổ số,Mua xổ số,True,no_diacritics
+Mua xổ số,Mua xổ số,Mua xổ số,True,original
+Tham gia xổ số,Mua xổ số,Thể thao - Giải trí,False,synonym
+Mua xoor soos,Mua xổ số,Mua xổ số,True,typo_unikey
+Mo the VNPAY,Mở thẻ VNPAY,Mở thẻ VNPAY,True,no_diacritics
+Mở thẻ VNPAY,Mở thẻ VNPAY,Mở thẻ VNPAY,True,original
+Đăng ký thẻ VNPAY,Mở thẻ VNPAY,Mở thẻ VNPAY,True,synonym
+Mở ther VNPAY,Mở thẻ VNPAY,Mở thẻ VNPAY,True,typo_unikey
+Mo tai khoan BIDV,Mở tài khoản BIDV,Mở tài khoản BIDV,True,no_diacritics
+Mở tài khoản BIDV,Mở tài khoản BIDV,Mở tài khoản BIDV,True,original
+Đăng ký tài khoản BIDV,Mở tài khoản BIDV,Mở tài khoản BIDV,True,synonym
+Mở tafi khoarn BIDV,Mở tài khoản BIDV,Mở tài khoản BIDV,True,typo_unikey
+Mo tai khoan Eximbank,Mở tài khoản Eximbank,Mở tài khoản Eximbank,True,no_diacritics
+Mở tài khoản Eximbank,Mở tài khoản Eximbank,Mở tài khoản Eximbank,True,original
+Lập tài khoản tại Eximbank,Mở tài khoản Eximbank,Mở tài khoản Eximbank,True,synonym
+Mở tafi khoarn Eximbank,Mở tài khoản Eximbank,Mở tài khoản Eximbank,True,typo_unikey
+Mo tai khoan VCB,Mở tài khoản VCB,Mở tài khoản VCB,True,no_diacritics
+Mở tài khoản VCB,Mở tài khoản VCB,Mở tài khoản VCB,True,original
+Đăng ký tài khoản Vietcombank.,Mở tài khoản VCB,Mở tài khoản BIDV,False,synonym
+Mở tafi khoarn VCB,Mở tài khoản VCB,Mở tài khoản VCB,True,typo_unikey
+Mo tai khoan ngan hang,Mở tài khoản ngân hàng,Mở tài khoản ngân hàng,True,no_diacritics
+Mở tài khoản ngân hàng,Mở tài khoản ngân hàng,Mở tài khoản ngân hàng,True,original
+Tạo lập tài khoản ngân hàng,Mở tài khoản ngân hàng,Mở tài khoản ngân hàng,True,synonym
+Mở tafi khoarn ngaan hafng,Mở tài khoản ngân hàng,Mở tài khoản ngân hàng,True,typo_unikey
+Nap tien,Nạp tiền,Nạp tiền,True,no_diacritics
+Nạp tiền,Nạp tiền,Nạp tiền,True,original
+Thêm tiền vào tài khoản,Nạp tiền,Vay tiêu dùng,False,synonym
+Najp tiền,Nạp tiền,Rút tiền,False,typo_unikey
+Nap tien VETC,Nạp tiền VETC,Nạp tiền VETC,True,no_diacritics
+Nạp tiền VETC,Nạp tiền VETC,Nạp tiền VETC,True,original
+Bổ sung tiền VETC,Nạp tiền VETC,Nạp tiền VETC,True,synonym
+Najp tiền VETC,Nạp tiền VETC,Nạp tiền VETC,True,typo_unikey
+Nap tien ePass,Nạp tiền ePass,Nạp tiền ePass,True,no_diacritics
+Nạp tiền ePass,Nạp tiền ePass,Nạp tiền ePass,True,original
+bổ sung tiền ePass,Nạp tiền ePass,Nạp tiền ePass,True,synonym
+Najp tiền ePass,Nạp tiền ePass,Nạp tiền ePass,True,typo_unikey
+Phi chung cu,Phí chung cư,Phí chung cư,True,no_diacritics
+Phí chung cư,Phí chung cư,Phí chung cư,True,original
+Phí dịch vụ chung cư,Phí chung cư,Phí chung cư,True,synonym
+Phis chung cuw,Phí chung cư,Phí chung cư,True,typo_unikey
+Qua cua toi,Quà của tôi,Quà của tôi,True,no_diacritics
+Quà của tôi,Quà của tôi,Quà của tôi,True,original
+Món quà dành cho tôi,Quà của tôi,Quà của tôi,True,synonym
+Quaf cura tooi,Quà của tôi,Quà của tôi,True,typo_unikey
+Rut tien,Rút tiền,Rút tiền,True,no_diacritics
+Rút tiền,Rút tiền,Rút tiền,True,original
+lấy tiền mặt,Rút tiền,Nạp tiền,False,synonym
+Rust tiền,Rút tiền,Nạp tiền,False,typo_unikey
+Taxi,Taxi,Taxi,True,no_diacritics
+Xe ô tô chở khách,Taxi,Đặt vé xe,False,synonym
+Taxi,Taxi,Taxi,True,typo_unikey
+Thanh toan bao hiem,Thanh toán bảo hiểm,Thanh toán bảo hiểm,True,no_diacritics
+Thanh toán bảo hiểm,Thanh toán bảo hiểm,Thanh toán bảo hiểm,True,original
+trả tiền bảo hiểm,Thanh toán bảo hiểm,Tiền điện,False,synonym
+Thanh toasn baro hiểm,Thanh toán bảo hiểm,Thanh toán bảo hiểm,True,typo_unikey
+Thanh toan cham,Thanh toán chạm,Thanh toán chạm,True,no_diacritics
+Thanh toán chạm,Thanh toán chạm,Thanh toán chạm,True,original
+Thanh toán không tiếp xúc,Thanh toán chạm,Thanh toán bảo hiểm,False,synonym
+Thanh toasn chajm,Thanh toán chạm,Thanh toán chạm,True,typo_unikey
+Thanh toan hoa don,Thanh toán hóa đơn,Thanh toán hóa đơn,True,no_diacritics
+Thanh toán hóa đơn,Thanh toán hóa đơn,Thanh toán hóa đơn,True,original
+Trả tiền hóa đơn,Thanh toán hóa đơn,Tiền điện,False,synonym
+Thanh toasn hosa ddown,Thanh toán hóa đơn,Thanh toán hóa đơn,True,typo_unikey
+Thanh toan khoan vay,Thanh toán khoản vay,Thanh toán khoản vay,True,no_diacritics
+Thanh toán khoản vay,Thanh toán khoản vay,Thanh toán khoản vay,True,original
+Trả nợ vay,Thanh toán khoản vay,Ví trả sau,False,synonym
+Thanh toasn khoarn vay,Thanh toán khoản vay,Thanh toán khoản vay,True,typo_unikey
+Thanh toan tai loc 68 - amity,Thanh toán tài lộc 68 - amity,Thanh toán tài lộc 68 - amity,True,no_diacritics
+Thanh toán tài lộc 68 - amity,Thanh toán tài lộc 68 - amity,Thanh toán tài lộc 68 - amity,True,original
+Dịch vụ thanh toán tài lộc 68 của Amity,Thanh toán tài lộc 68 - amity,Thanh toán tài lộc 68 - amity,True,synonym
+Thanh toasn tafi lộc 68 - amity,Thanh toán tài lộc 68 - amity,Thanh toán tài lộc 68 - amity,True,typo_unikey
+Thue xe tu lai,Thuê xe tự lái,Thuê xe tự lái,True,no_diacritics
+Thuê xe tự lái,Thuê xe tự lái,Thuê xe tự lái,True,original
+trả tiền xe theo ngày,Thuê xe tự lái,Tiền điện,False,synonym
+Thuee xe tự lasi,Thuê xe tự lái,Thuê xe tự lái,True,typo_unikey
+The thao - Giai tri,Thể thao - Giải trí,Thể thao - Giải trí,True,no_diacritics
+Thể thao - Giải trí,Thể thao - Giải trí,Thể thao - Giải trí,True,original
+dịch vụ giải trí và thể thao,Thể thao - Giải trí,Thể thao - Giải trí,True,synonym
+Theer thao - Giari tris,Thể thao - Giải trí,Thể thao - Giải trí,True,typo_unikey
+Tien dien,Tiền điện,Tiền điện,True,no_diacritics
+Tiền điện,Tiền điện,Tiền điện,True,original
+Chi phí điện,Tiền điện,Phí chung cư,False,synonym
+Tiền ddiện,Tiền điện,Tiền điện,True,typo_unikey
+Top up Data,Top up Data,Top up Data,True,no_diacritics
+Bổ sung dung lượng,Top up Data,Vay tiêu dùng,False,synonym
+Top up Data,Top up Data,Top up Data,True,typo_unikey
+Tang qua,Tặng quà,Tặng quà,True,no_diacritics
+Tặng quà,Tặng quà,Tặng quà,True,original
+Trao quà,Tặng quà,Quà của tôi,False,synonym
+tawngj quaf,Tặng quà,Tặng quà,True,typo_unikey
+Tang qua ban be,Tặng quà bạn bè,Tặng quà bạn bè,True,no_diacritics
+Tặng quà bạn bè,Tặng quà bạn bè,Tặng quà bạn bè,True,original
+Tặng quà cho người bạn.,Tặng quà bạn bè,Tặng quà bạn bè,True,synonym
+Tặng quaf bajn bef,Tặng quà bạn bè,Tặng quà,False,typo_unikey
+VNPAY Taxi,VNPAY Taxi,VNPAY Taxi,True,no_diacritics
+Taxi VNPAY,VNPAY Taxi,VNPAY Taxi,True,synonym
+VNPAY Taxi,VNPAY Taxi,VNPAY Taxi,True,typo_unikey
+VNPAY-QR,VNPAY-QR,VNPAY-QR,True,no_diacritics
+Phép thanh toán VNPAY qua mã QR,VNPAY-QR,VNPAY-QR,True,synonym
+VNPAY-QR,VNPAY-QR,VNPAY-QR,True,typo_unikey
+VNPAY-QR gan đay,VNPAY-QR gần đây,VNPAY-QR gần đây,True,no_diacritics
+VNPAY-QR gần đây,VNPAY-QR gần đây,VNPAY-QR gần đây,True,original
+Thông tin cập nhật VNPAY-QR,VNPAY-QR gần đây,VNPAY-QR,False,synonym
+VNPAY-QR ganaf ddaay,VNPAY-QR gần đây,VNPAY-QR,False,typo_unikey
+VNPT Media,VNPT Media,VNPT Media,True,no_diacritics
+Media của VNPT,VNPT Media,VNPT Media,True,synonym
+VNPT Media,VNPT Media,VNPT Media,True,typo_unikey
+VNSKY,VNSKY,VNSKY,True,no_diacritics
+[],VNSKY,Internet,False,synonym
+VNSKY,VNSKY,VNSKY,True,typo_unikey
+Vay Nhanh,Vay Nhanh,Vay Nhanh,True,no_diacritics
+"""Vay Tiền Nhanh"", ""Vay Online Nhanh"", ""Vay Dễ Dàng""",Vay Nhanh,Vay Nhanh,True,synonym
+Vay Nhanh,Vay Nhanh,Vay Nhanh,True,typo_unikey
+Vay tieu dung,Vay tiêu dùng,Vay tiêu dùng,True,no_diacritics
+Vay tiêu dùng,Vay tiêu dùng,Vay tiêu dùng,True,original
+Vay tiền mặt,Vay tiêu dùng,Vay tiêu dùng,True,synonym
+Vay tieeu dufng,Vay tiêu dùng,Vay tiêu dùng,True,typo_unikey
+VnShop,VnShop,VnShop,True,no_diacritics
+Vn mua sắm trực tuyến,VnShop,Ví trả sau,False,synonym
+VnShop,VnShop,VnShop,True,typo_unikey
+VnShop,VnShop,VnShop,True,original
+Ve tau,Vé tàu,Vé tàu,True,no_diacritics
+Vé tàu,Vé tàu,Vé tàu,True,original
+Thẻ tàu,Vé tàu,Vé tàu,True,synonym
+Ves tafu,Vé tàu,Đặt vé xe,False,typo_unikey
+Ve xem phim,Vé xem phim,Vé xem phim,True,no_diacritics
+Vé xem phim,Vé xem phim,Vé xem phim,True,original
+Tấm vé điện ảnh,Vé xem phim,Tiền điện,False,synonym
+Ves xem phim,Vé xem phim,Vé xem phim,True,typo_unikey
+Vi tra sau,Ví trả sau,Ví trả sau,True,no_diacritics
+Ví trả sau,Ví trả sau,Ví trả sau,True,original
+Thanh toán trả sau qua ví,Ví trả sau,Ví trả sau,True,synonym
+Vis trar sau,Ví trả sau,Ví trả sau,True,typo_unikey
+e-Gift,e-Gift,e-Gift,True,no_diacritics
+Quà tặng điện tử,e-Gift,Tặng quà,False,synonym
+e-Gift,e-Gift,e-Gift,True,typo_unikey
+e-Gift,e-Gift,e-Gift,True,original
+e-Voucher,e-Voucher,e-Voucher,True,original
+e-Voucher,e-Voucher,e-Voucher,True,no_diacritics
+Voucher trực tuyến,e-Voucher,e-Voucher,True,synonym
+e-Voucher,e-Voucher,e-Voucher,True,typo_unikey
+ePass - Thu phi khong dung,ePass - Thu phí không dừng,ePass - Thu phí không dừng,True,no_diacritics
+ePass - Thu phí không dừng,ePass - Thu phí không dừng,ePass - Thu phí không dừng,True,original
+Thu phí không dừng với ePass,ePass - Thu phí không dừng,ePass - Thu phí không dừng,True,synonym
+ePass - Thu phis khoong dừng,ePass - Thu phí không dừng,ePass - Thu phí không dừng,True,typo_unikey
+Đien thoai co đinh 01,Điện thoại cố định 01,Điện thoại cố định 01,True,no_diacritics
+Điện thoại cố định 01,Điện thoại cố định 01,Điện thoại cố định 01,True,original
+Số điện thoại cố định chính,Điện thoại cố định 01,Điện thoại cố định 01,True,synonym
+Điện thoaji cố ddijnh 01,Điện thoại cố định 01,Điện thoại cố định 01,True,typo_unikey
+Đat hoa,Đặt hoa,Đặt hoa,True,no_diacritics
+Đặt hoa,Đặt hoa,Đặt hoa,True,original
+Mua hoa,Đặt hoa,Mua mã thẻ,False,synonym
+ddawjt hoa,Đặt hoa,Đặt hoa,True,typo_unikey
+dat san Golf,Đặt sân Golf,Đặt sân Golf,True,no_diacritics
+Đặt sân Golf,Đặt sân Golf,Đặt sân Golf,True,original
+Đặt lịch chơi Golf,Đặt sân Golf,Đặt sân Golf,True,synonym
+ddawjt saan Golf,Đặt sân Golf,Đặt sân Golf,True,typo_unikey
+dat ve may bay,Đặt vé máy bay,Đặt vé máy bay,True,no_diacritics
+Đặt vé máy bay,Đặt vé máy bay,Đặt vé máy bay,True,original
+Đặt chỗ trên máy bay,Đặt vé máy bay,Đặt vé máy bay,True,synonym
+ddawjt ves masy bay,Đặt vé máy bay,Đặt vé máy bay,True,typo_unikey
+dat ve tau,Đặt vé tàu,Đặt vé tàu,True,no_diacritics
+Đặt vé tàu,Đặt vé tàu,Đặt vé tàu,True,original
+Săn vé tàu,Đặt vé tàu,Vé tàu,False,synonym
+ddawjt ves tafu,Đặt vé tàu,LuckyBest,False,typo_unikey
+dat ve xe,Đặt vé xe,Đặt vé xe,True,no_diacritics
+Đặt vé xe,Đặt vé xe,Đặt vé xe,True,original
+Mua vé xe,Đặt vé xe,Đặt vé xe,True,synonym
+ddawjt ves xe,Đặt vé xe,Đặt vé xe,True,typo_unikey
+dat xe lien tinh,Đặt xe liên tỉnh,Đặt xe liên tỉnh,True,no_diacritics
+Đặt xe liên tỉnh,Đặt xe liên tỉnh,Đặt xe liên tỉnh,True,original
+Đặt vé xe đi tỉnh,Đặt xe liên tỉnh,Đặt xe liên tỉnh,True,synonym
+ddawjt xe lieen tirnh,Đặt xe liên tỉnh,Đặt xe liên tỉnh,True,typo_unikey
+Top up Data  ,Top up Data,Top up Data,True,original
+Internet  ,Internet,Internet,True,original
+VNPT Media  ,VNPT Media,VNPT Media,True,original
+Dealtoday  ,Dealtoday,Dealtoday,True,original
+Taxi  ,Taxi,Taxi,True,original
+Data 3G/4G  ,Data 3G/4G,Data 3G/4G,True,original
+VNPAY-QR  ,VNPAY-QR,VNPAY-QR,True,original
+VNSKY  ,VNSKY,VNSKY,True,original
+VNPAY Taxi  ,VNPAY Taxi,VNPAY Taxi,True,original
+Vay Nhanh  ,Vay Nhanh,Vay Nhanh,True,original
+LuckyBest  ,LuckyBest,LuckyBest,True,original

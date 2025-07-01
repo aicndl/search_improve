@@ -1,0 +1,257 @@
+,base_keyword,case_type,keyword
+2,Chuyển tiền,no_diacritics,Chuyen tien
+4,Chuyển tiền,original,Chuyển tiền
+6,Chuyển tiền,synonym,Gửi tiền
+8,Chuyển tiền,typo_unikey,Chuyeenr tieenf
+10,Combo Data - Thoại,no_diacritics,Combo Data - Thoai
+12,Combo Data - Thoại,original,Combo Data - Thoại
+14,Combo Data - Thoại,synonym,Gói dữ liệu và điện thoại
+16,Combo Data - Thoại,typo_unikey,Combo Data - Thoaji
+18,Cước truyền hình,no_diacritics,Cuoc truyen hinh
+20,Cước truyền hình,original,Cước truyền hình
+22,Cước truyền hình,synonym,Phí dịch vụ truyền hình
+24,Cước truyền hình,typo_unikey,Cuwớc truyền hifnh
+26,Data 3G/4G,no_diacritics,Data 3G/4G
+29,Data 3G/4G,synonym,Dịch vụ dữ liệu di động 3G/4G
+31,Data 3G/4G,typo_unikey,Data 3G/4G
+33,Dealtoday,no_diacritics,Deal today
+36,Dealtoday,synonym,Giảm giá ngày hôm nay
+38,Dealtoday,typo_unikey,Dealtoday
+40,Di động trả sau,no_diacritics,Di dong tra sau
+42,Di động trả sau,original,Di động trả sau
+44,Di động trả sau,synonym,Trả sau điện di động
+46,Di động trả sau,typo_unikey,Di ddộng trar sau
+48,Dịch vụ y tế,no_diacritics,Dich vu y te
+50,Dịch vụ y tế,original,Dịch vụ y tế
+52,Dịch vụ y tế,synonym,Chăm sóc sức khỏe
+54,Dịch vụ y tế,typo_unikey,Dijch vuj y tế
+57,Giao hàng,no_diacritics,Giao hang
+59,Giao hàng,original,Giao hàng
+61,Giao hàng,synonym,vận chuyển hàng 
+63,Giao hàng,typo_unikey,Giao hafng
+66,Giao hàng Ahamove,no_diacritics,Giao hang Ahamove
+68,Giao hàng Ahamove,original,Giao hàng Ahamove
+70,Giao hàng Ahamove,synonym,vận chuyển hàng Ahamove
+72,Giao hàng Ahamove,typo_unikey,Giao hafng Ahamove
+74,Gọi Taxi,no_diacritics,Goi Taxi
+76,Gọi Taxi,original,Gọi Taxi
+78,Gọi Taxi,synonym,Gọi xe taxi
+80,Gọi Taxi,typo_unikey,Goji Taxi
+82,Hóa đơn truyền hình,no_diacritics,Hoa don truyen hinh
+84,Hóa đơn truyền hình,original,Hóa đơn truyền hình
+86,Hóa đơn truyền hình,synonym,thanh toán dịch vụ truyền hình
+88,Hóa đơn truyền hình,typo_unikey,Hosa ddown truyền hifnh
+90,Học phí,no_diacritics,Hoc phi
+92,Học phí,original,Học phí
+94,Học phí,synonym,Phí học tập
+96,Học phí,typo_unikey,Hojc phis
+98,Internet,no_diacritics,Internet
+101,Internet,synonym,Mạng Internet
+103,Internet,typo_unikey,Internet
+105,LuckyBest,no_diacritics,LuckyBest
+108,LuckyBest,synonym,may mắn
+110,LuckyBest,typo_unikey,LuckyBest
+112,MiniApp Khách sạn,no_diacritics,MiniApp Khach san
+114,MiniApp Khách sạn,original,MiniApp Khách sạn
+116,MiniApp Khách sạn,synonym,Ứng dụng mini cho khách sạn
+118,MiniApp Khách sạn,typo_unikey,MiniApp Khasch sajn
+120,MiniApp Tàu Thủy,no_diacritics,MiniApp Tau Thuy
+122,MiniApp Tàu Thủy,original,MiniApp Tàu Thủy
+124,MiniApp Tàu Thủy,synonym,Ứng dụng mini tàu thủy
+126,MiniApp Tàu Thủy,typo_unikey,MiniApp Tafu Thury
+128,Mua gói học,no_diacritics,Mua goi hoc
+130,Mua gói học,original,Mua gói học
+132,Mua gói học,synonym,thanh toán gói học
+134,Mua gói học,typo_unikey,Mua gosi hojc
+136,Mua mã thẻ,no_diacritics,Mua ma the
+138,Mua mã thẻ,original,Mua mã thẻ
+140,Mua mã thẻ,synonym,Mua thẻ trả trước
+142,Mua mã thẻ,typo_unikey,Mua max ther
+145,Mua mã thẻ điện thoại,no_diacritics,Mua ma the đien thoai
+147,Mua mã thẻ điện thoại,original,Mua mã thẻ điện thoại
+149,Mua mã thẻ điện thoại,synonym,mua thẻ điện thoại trả trước
+151,Mua mã thẻ điện thoại,typo_unikey,Mua max ther ddiện thoaji
+153,Mua xổ số,no_diacritics,Mua xo so
+155,Mua xổ số,original,Mua xổ số
+157,Mua xổ số,synonym,Tham gia xổ số
+159,Mua xổ số,typo_unikey,Mua xoor soos
+161,Mở thẻ VNPAY,no_diacritics,Mo the VNPAY
+163,Mở thẻ VNPAY,original,Mở thẻ VNPAY
+165,Mở thẻ VNPAY,synonym,Đăng ký thẻ VNPAY
+167,Mở thẻ VNPAY,typo_unikey,Mở ther VNPAY
+170,Mở tài khoản BIDV,no_diacritics,Mo tai khoan BIDV
+172,Mở tài khoản BIDV,original,Mở tài khoản BIDV
+174,Mở tài khoản BIDV,synonym,Đăng ký tài khoản BIDV
+176,Mở tài khoản BIDV,typo_unikey,Mở tafi khoarn BIDV
+179,Mở tài khoản Eximbank,no_diacritics,Mo tai khoan Eximbank
+181,Mở tài khoản Eximbank,original,Mở tài khoản Eximbank
+183,Mở tài khoản Eximbank,synonym,Lập tài khoản tại Eximbank
+185,Mở tài khoản Eximbank,typo_unikey,Mở tafi khoarn Eximbank
+188,Mở tài khoản VCB,no_diacritics,Mo tai khoan VCB
+190,Mở tài khoản VCB,original,Mở tài khoản VCB
+192,Mở tài khoản VCB,synonym,Đăng ký tài khoản Vietcombank.
+194,Mở tài khoản VCB,typo_unikey,Mở tafi khoarn VCB
+197,Mở tài khoản ngân hàng,no_diacritics,Mo tai khoan ngan hang
+199,Mở tài khoản ngân hàng,original,Mở tài khoản ngân hàng
+201,Mở tài khoản ngân hàng,synonym,Tạo lập tài khoản ngân hàng
+203,Mở tài khoản ngân hàng,typo_unikey,Mở tafi khoarn ngaan hafng
+205,Nạp tiền,no_diacritics,Nap tien
+207,Nạp tiền,original,Nạp tiền
+209,Nạp tiền,synonym,Thêm tiền vào tài khoản
+211,Nạp tiền,typo_unikey,Najp tiền
+213,Nạp tiền VETC,no_diacritics,Nap tien VETC
+215,Nạp tiền VETC,original,Nạp tiền VETC
+217,Nạp tiền VETC,synonym,Bổ sung tiền VETC
+219,Nạp tiền VETC,typo_unikey,Najp tiền VETC
+221,Nạp tiền ePass,no_diacritics,Nap tien ePass
+223,Nạp tiền ePass,original,Nạp tiền ePass
+225,Nạp tiền ePass,synonym,bổ sung tiền ePass
+227,Nạp tiền ePass,typo_unikey,Najp tiền ePass
+229,Phí chung cư,no_diacritics,Phi chung cu
+231,Phí chung cư,original,Phí chung cư
+233,Phí chung cư,synonym,Phí dịch vụ chung cư
+235,Phí chung cư,typo_unikey,Phis chung cuw
+237,Quà của tôi,no_diacritics,Qua cua toi
+239,Quà của tôi,original,Quà của tôi
+241,Quà của tôi,synonym,Món quà dành cho tôi
+243,Quà của tôi,typo_unikey,Quaf cura tooi
+245,Rút tiền,no_diacritics,Rut tien
+247,Rút tiền,original,Rút tiền
+249,Rút tiền,synonym,lấy tiền mặt
+251,Rút tiền,typo_unikey,Rust tiền
+253,Taxi,no_diacritics,Taxi
+256,Taxi,synonym,Xe ô tô chở khách
+258,Taxi,typo_unikey,Taxi
+261,Thanh toán bảo hiểm,no_diacritics,Thanh toan bao hiem
+263,Thanh toán bảo hiểm,original,Thanh toán bảo hiểm
+265,Thanh toán bảo hiểm,synonym,trả tiền bảo hiểm
+267,Thanh toán bảo hiểm,typo_unikey,Thanh toasn baro hiểm
+269,Thanh toán chạm,no_diacritics,Thanh toan cham
+271,Thanh toán chạm,original,Thanh toán chạm
+273,Thanh toán chạm,synonym,Thanh toán không tiếp xúc
+275,Thanh toán chạm,typo_unikey,Thanh toasn chajm
+277,Thanh toán hóa đơn,no_diacritics,Thanh toan hoa don
+279,Thanh toán hóa đơn,original,Thanh toán hóa đơn
+281,Thanh toán hóa đơn,synonym,Trả tiền hóa đơn
+283,Thanh toán hóa đơn,typo_unikey,Thanh toasn hosa ddown
+285,Thanh toán khoản vay,no_diacritics,Thanh toan khoan vay
+287,Thanh toán khoản vay,original,Thanh toán khoản vay
+289,Thanh toán khoản vay,synonym,Trả nợ vay
+291,Thanh toán khoản vay,typo_unikey,Thanh toasn khoarn vay
+293,Thanh toán tài lộc 68 - amity,no_diacritics,Thanh toan tai loc 68 - amity
+295,Thanh toán tài lộc 68 - amity,original,Thanh toán tài lộc 68 - amity
+297,Thanh toán tài lộc 68 - amity,synonym,Dịch vụ thanh toán tài lộc 68 của Amity
+299,Thanh toán tài lộc 68 - amity,typo_unikey,Thanh toasn tafi lộc 68 - amity
+301,Thuê xe tự lái,no_diacritics,Thue xe tu lai
+303,Thuê xe tự lái,original,Thuê xe tự lái
+305,Thuê xe tự lái,synonym,trả tiền xe theo ngày
+307,Thuê xe tự lái,typo_unikey,Thuee xe tự lasi
+309,Thể thao - Giải trí,no_diacritics,The thao - Giai tri
+311,Thể thao - Giải trí,original,Thể thao - Giải trí
+313,Thể thao - Giải trí,synonym,dịch vụ giải trí và thể thao
+315,Thể thao - Giải trí,typo_unikey,Theer thao - Giari tris
+317,Tiền điện,no_diacritics,Tien dien
+319,Tiền điện,original,Tiền điện
+321,Tiền điện,synonym,Chi phí điện
+323,Tiền điện,typo_unikey,Tiền ddiện
+325,Top up Data,no_diacritics,Top up Data
+328,Top up Data,synonym,Bổ sung dung lượng
+330,Top up Data,typo_unikey,Top up Data
+332,Tặng quà,no_diacritics,Tang qua
+334,Tặng quà,original,Tặng quà
+336,Tặng quà,synonym,Trao quà
+338,Tặng quà,typo_unikey,tawngj quaf
+340,Tặng quà bạn bè,no_diacritics,Tang qua ban be
+342,Tặng quà bạn bè,original,Tặng quà bạn bè
+344,Tặng quà bạn bè,synonym,Tặng quà cho người bạn.
+346,Tặng quà bạn bè,typo_unikey,Tặng quaf bajn bef
+348,VNPAY Taxi,no_diacritics,VNPAY Taxi
+351,VNPAY Taxi,synonym,Taxi VNPAY
+353,VNPAY Taxi,typo_unikey,VNPAY Taxi
+355,VNPAY-QR,no_diacritics,VNPAY-QR
+358,VNPAY-QR,synonym,Phép thanh toán VNPAY qua mã QR
+360,VNPAY-QR,typo_unikey,VNPAY-QR
+362,VNPAY-QR gần đây,no_diacritics,VNPAY-QR gan đay
+364,VNPAY-QR gần đây,original,VNPAY-QR gần đây
+366,VNPAY-QR gần đây,synonym,Thông tin cập nhật VNPAY-QR
+368,VNPAY-QR gần đây,typo_unikey,VNPAY-QR ganaf ddaay
+370,VNPT Media,no_diacritics,VNPT Media
+373,VNPT Media,synonym,Media của VNPT
+375,VNPT Media,typo_unikey,VNPT Media
+377,VNSKY,no_diacritics,VNSKY
+380,VNSKY,synonym,[]
+382,VNSKY,typo_unikey,VNSKY
+384,Vay Nhanh,no_diacritics,Vay Nhanh
+387,Vay Nhanh,synonym,"""Vay Tiền Nhanh"", ""Vay Online Nhanh"", ""Vay Dễ Dàng"""
+389,Vay Nhanh,typo_unikey,Vay Nhanh
+391,Vay tiêu dùng,no_diacritics,Vay tieu dung
+393,Vay tiêu dùng,original,Vay tiêu dùng
+395,Vay tiêu dùng,synonym,Vay tiền mặt
+397,Vay tiêu dùng,typo_unikey,Vay tieeu dufng
+399,VnShop,no_diacritics,VnShop
+402,VnShop,synonym,Vn mua sắm trực tuyến
+404,VnShop,typo_unikey,VnShop
+405,VnShop,original,VnShop
+407,Vé tàu,no_diacritics,Ve tau
+409,Vé tàu,original,Vé tàu
+411,Vé tàu,synonym,Thẻ tàu
+413,Vé tàu,typo_unikey,Ves tafu
+415,Vé xem phim,no_diacritics,Ve xem phim
+417,Vé xem phim,original,Vé xem phim
+419,Vé xem phim,synonym,Tấm vé điện ảnh
+421,Vé xem phim,typo_unikey,Ves xem phim
+423,Ví trả sau,no_diacritics,Vi tra sau
+425,Ví trả sau,original,Ví trả sau
+427,Ví trả sau,synonym,Thanh toán trả sau qua ví
+429,Ví trả sau,typo_unikey,Vis trar sau
+431,e-Gift,no_diacritics,e-Gift
+434,e-Gift,synonym,Quà tặng điện tử
+436,e-Gift,typo_unikey,e-Gift
+437,e-Gift,original,e-Gift
+438,e-Voucher,original,e-Voucher
+440,e-Voucher,no_diacritics,e-Voucher
+443,e-Voucher,synonym,Voucher trực tuyến
+445,e-Voucher,typo_unikey,e-Voucher
+447,ePass - Thu phí không dừng,no_diacritics,ePass - Thu phi khong dung
+449,ePass - Thu phí không dừng,original,ePass - Thu phí không dừng
+451,ePass - Thu phí không dừng,synonym,Thu phí không dừng với ePass
+453,ePass - Thu phí không dừng,typo_unikey,ePass - Thu phis khoong dừng
+456,Điện thoại cố định 01,no_diacritics,Đien thoai co đinh 01
+458,Điện thoại cố định 01,original,Điện thoại cố định 01
+460,Điện thoại cố định 01,synonym,Số điện thoại cố định chính
+462,Điện thoại cố định 01,typo_unikey,Điện thoaji cố ddijnh 01
+464,Đặt hoa,no_diacritics,Đat hoa
+466,Đặt hoa,original,Đặt hoa
+468,Đặt hoa,synonym,Mua hoa
+470,Đặt hoa,typo_unikey,ddawjt hoa
+472,Đặt sân Golf,no_diacritics,dat san Golf
+474,Đặt sân Golf,original,Đặt sân Golf
+476,Đặt sân Golf,synonym,Đặt lịch chơi Golf
+478,Đặt sân Golf,typo_unikey,ddawjt saan Golf
+480,Đặt vé máy bay,no_diacritics,dat ve may bay
+482,Đặt vé máy bay,original,Đặt vé máy bay
+484,Đặt vé máy bay,synonym,Đặt chỗ trên máy bay
+486,Đặt vé máy bay,typo_unikey,ddawjt ves masy bay
+488,Đặt vé tàu,no_diacritics,dat ve tau
+490,Đặt vé tàu,original,Đặt vé tàu
+492,Đặt vé tàu,synonym,Săn vé tàu
+494,Đặt vé tàu,typo_unikey,ddawjt ves tafu
+496,Đặt vé xe,no_diacritics,dat ve xe
+498,Đặt vé xe,original,Đặt vé xe
+500,Đặt vé xe,synonym,Mua vé xe
+502,Đặt vé xe,typo_unikey,ddawjt ves xe
+504,Đặt xe liên tỉnh,no_diacritics,dat xe lien tinh
+506,Đặt xe liên tỉnh,original,Đặt xe liên tỉnh
+508,Đặt xe liên tỉnh,synonym,Đặt vé xe đi tỉnh
+510,Đặt xe liên tỉnh,typo_unikey,ddawjt xe lieen tirnh
+511,Top up Data,original,Top up Data  
+512,Internet,original,Internet  
+513,VNPT Media,original,VNPT Media  
+514,Dealtoday,original,Dealtoday  
+515,Taxi,original,Taxi  
+516,Data 3G/4G,original,Data 3G/4G  
+517,VNPAY-QR,original,VNPAY-QR  
+518,VNSKY,original,VNSKY  
+519,VNPAY Taxi,original,VNPAY Taxi  
+520,Vay Nhanh,original,Vay Nhanh  
+521,LuckyBest,original,LuckyBest  

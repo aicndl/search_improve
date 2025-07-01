@@ -1,0 +1,15 @@
+{
+    "models": [
+      {
+        "title": "V_CHAT4",
+        "provider": "openai",
+        "model": "v_chat4",
+        "temperature": 0.1,
+        "timeout": 100,
+        "OPENAI_API_KEY":"",
+        "apiBase": "http://gencode.vnpay.local/llm_v4/v1",
+        "maxTokens": 32000,
+        "contextLength": 32000
+      }
+    ]
+  }
